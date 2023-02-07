@@ -1,0 +1,2 @@
+0	unflooded
+1	flooded

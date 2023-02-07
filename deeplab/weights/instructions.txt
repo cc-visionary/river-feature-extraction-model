@@ -1,0 +1,19 @@
+In this repository, we give the network weights and configuration files that 
+can be used with the deeplab network developed at
+https://github.com/kazuto1011/deeplab-pytorch
+
+- The .pth files are the weight files
+- The water.yaml file is a sample configuration file allowing to load our file 
+  for inference
+- The water_labels.txt file is a label description file necessary for the 
+  inference
+
+Those files can be used with the demo.py script from the network website.
+
+Sample commande line:
+
+python demo.py single \
+    --config-path /path/to/water.yaml 
+    --model-path /path/to/laura_2steps.pth 
+    --image_path /path/to/your_image.png
+
