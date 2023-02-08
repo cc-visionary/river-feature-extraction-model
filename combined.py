@@ -1,8 +1,5 @@
 from deeplab.deeplab import predict_single
 
-from mask_rcnn.mrcnn import utils
-import mask_rcnn.mrcnn.model as modellib
-
 if __name__ == "__main__":
     # config_path = './deeplab/weights/water.yaml'
     # model_path = './deeplab/weights/laura_whole.pth'
