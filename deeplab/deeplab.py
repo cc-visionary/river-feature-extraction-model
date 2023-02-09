@@ -62,9 +62,9 @@ def setup_postprocessor(CONFIG):
     return postprocessor
 
 
-def preprocessing(image, device, CONFIG):
+def preprocessing(image, device):
     # Resize
-    scale = CONFIG.IMAGE.SIZE.TEST / max(image.shape[:2])
+    scale = 513 / max(image.shape[:2])
     image = cv2.resize(image, dsize=None, fx=scale, fy=scale)
     raw_image = image.astype(np.uint8)
 
@@ -72,9 +72,9 @@ def preprocessing(image, device, CONFIG):
     image = image.astype(np.float32)
     image -= np.array(
         [
-            float(CONFIG.IMAGE.MEAN.B),
-            float(CONFIG.IMAGE.MEAN.G),
-            float(CONFIG.IMAGE.MEAN.R),
+            float(122.675),
+            float(116.669),
+            float(122.675),
         ]
     )
 
