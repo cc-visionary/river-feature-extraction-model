@@ -1,0 +1,6547 @@
+[{
+  "_id": {
+    "$oid": "63ad283dcf197a147d6600c1"
+  },
+  "filename": "dd6c26782853a.jpg",
+  "description": "Bridge",
+  "weather": "Sunny",
+  "datetime": "2022-12-29T05:39:15.639Z",
+  "longitude": {
+    "$numberDecimal": "121.0120087"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5940321"
+  },
+  "alpha": {
+    "$numberDecimal": "258.3"
+  },
+  "beta": {
+    "$numberDecimal": "18.2"
+  },
+  "gamma": {
+    "$numberDecimal": "-16.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad3b37cf197a147d6600c3"
+  },
+  "filename": "ed862fef325b1.jpg",
+  "description": "Riverbank",
+  "weather": "Sunny",
+  "datetime": "2022-12-29T07:00:38.767Z",
+  "longitude": {
+    "$numberDecimal": "120.9794739"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5976188"
+  },
+  "alpha": {
+    "$numberDecimal": "231"
+  },
+  "beta": {
+    "$numberDecimal": "16.1"
+  },
+  "gamma": {
+    "$numberDecimal": "12.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad3bbdcf197a147d6600c5"
+  },
+  "filename": "fcea82099b748.jpg",
+  "description": "Riverbank",
+  "weather": "Sunny",
+  "datetime": "2022-12-29T07:02:47.433Z",
+  "longitude": {
+    "$numberDecimal": "120.9792038"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5975039"
+  },
+  "alpha": {
+    "$numberDecimal": "202.79999999999998"
+  },
+  "beta": {
+    "$numberDecimal": "29.8"
+  },
+  "gamma": {
+    "$numberDecimal": "-2.2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad3c12cf197a147d6600c7"
+  },
+  "filename": "9bf6f91534b8f.jpg",
+  "description": "Riverbank",
+  "weather": "Sunny",
+  "datetime": "2022-12-29T07:03:59.892Z",
+  "longitude": {
+    "$numberDecimal": "120.9785912"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5973141"
+  },
+  "alpha": {
+    "$numberDecimal": "116.1"
+  },
+  "beta": {
+    "$numberDecimal": "1.7000000000000002"
+  },
+  "gamma": {
+    "$numberDecimal": "-56.400000000000006"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad3ca1cf197a147d6600c9"
+  },
+  "filename": "3f92dcb11d28.jpg",
+  "description": "Riverbank",
+  "weather": "Sunny",
+  "datetime": "2022-12-29T07:05:27.323Z",
+  "longitude": {
+    "$numberDecimal": "120.9785801"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5966848"
+  },
+  "alpha": {
+    "$numberDecimal": "156.39999999999998"
+  },
+  "beta": {
+    "$numberDecimal": "17.3"
+  },
+  "gamma": {
+    "$numberDecimal": "-15.100000000000001"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad4a88cf197a147d6600cb"
+  },
+  "filename": "a29cc20df16b2.jpg",
+  "description": "Riverbank",
+  "weather": "Sunny",
+  "datetime": "2022-12-29T08:06:03.804Z",
+  "longitude": {
+    "$numberDecimal": "120.9774267"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5965481"
+  },
+  "alpha": {
+    "$numberDecimal": "73.59999999999997"
+  },
+  "beta": {
+    "$numberDecimal": "18.900000000000002"
+  },
+  "gamma": {
+    "$numberDecimal": "-30.700000000000003"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad4ac8cf197a147d6600cd"
+  },
+  "filename": "10b9ed1b6f7a1.jpg",
+  "description": "Riverbank",
+  "weather": "Sunny",
+  "datetime": "2022-12-29T08:06:58.970Z",
+  "longitude": {
+    "$numberDecimal": "120.9776222"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5967402"
+  },
+  "alpha": {
+    "$numberDecimal": "70.80000000000001"
+  },
+  "beta": {
+    "$numberDecimal": "30.400000000000002"
+  },
+  "gamma": {
+    "$numberDecimal": "-3.8000000000000003"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad4b08cf197a147d6600cf"
+  },
+  "filename": "2cfe833db7ea7.jpg",
+  "description": "Riverbank",
+  "weather": "Sunny",
+  "datetime": "2022-12-29T08:08:02.813Z",
+  "longitude": {
+    "$numberDecimal": "120.9780613"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5969091"
+  },
+  "alpha": {
+    "$numberDecimal": "70.59999999999997"
+  },
+  "beta": {
+    "$numberDecimal": "24.5"
+  },
+  "gamma": {
+    "$numberDecimal": "8.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad4b46cf197a147d6600d1"
+  },
+  "filename": "d98d2bcb94b78.jpg",
+  "description": "Riverbank",
+  "weather": "Sunny",
+  "datetime": "2022-12-29T08:08:54.394Z",
+  "longitude": {
+    "$numberDecimal": "120.97805"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5969085"
+  },
+  "alpha": {
+    "$numberDecimal": "52.599999999999966"
+  },
+  "beta": {
+    "$numberDecimal": "2.5"
+  },
+  "gamma": {
+    "$numberDecimal": "-61.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad4bd4cf197a147d6600d3"
+  },
+  "filename": "3c00c792e62bd.jpg",
+  "description": "Bridge",
+  "weather": "Cloudy",
+  "datetime": "2022-12-29T08:11:44.153Z",
+  "longitude": {
+    "$numberDecimal": "120.9773949"
+  },
+  "latitude": {
+    "$numberDecimal": "14.595965"
+  },
+  "alpha": {
+    "$numberDecimal": "336.5"
+  },
+  "beta": {
+    "$numberDecimal": "7.4"
+  },
+  "gamma": {
+    "$numberDecimal": "-25.3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ad4bfccf197a147d6600d5"
+  },
+  "filename": "d403ec631ce5e.jpg",
+  "description": "Bridge",
+  "weather": "Cloudy",
+  "datetime": "2022-12-29T08:12:22.787Z",
+  "longitude": {
+    "$numberDecimal": "120.9772473"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5948936"
+  },
+  "alpha": {
+    "$numberDecimal": "99.80000000000001"
+  },
+  "beta": {
+    "$numberDecimal": "24.5"
+  },
+  "gamma": {
+    "$numberDecimal": "-9.8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6386353baa86077f4b7c4"
+  },
+  "filename": "a45229c7ea87c.jpg",
+  "description": "Near Rockwell along walkway",
+  "weather": "Cloudy",
+  "datetime": "2023-01-05T02:39:10.487Z",
+  "longitude": {
+    "$numberDecimal": "121.0363545"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5666752"
+  },
+  "compass": {
+    "$numberDecimal": "347"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b638fb53baa86077f4b7c6"
+  },
+  "filename": "0bcf8ec7197b6.jpg",
+  "description": "Near Rockwell along walkway",
+  "weather": "Cloudy",
+  "datetime": "2023-01-05T02:41:12.626Z",
+  "longitude": {
+    "$numberDecimal": "121.037243"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5663649"
+  },
+  "compass": {
+    "$numberDecimal": "347"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b639eb53baa86077f4b7c8"
+  },
+  "filename": "91224c7d7f796.jpg",
+  "description": "On a bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-05T02:44:48.288Z",
+  "longitude": {
+    "$numberDecimal": "121.0375998"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5672196"
+  },
+  "compass": {
+    "$numberDecimal": "273"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b63a7153baa86077f4b7ca"
+  },
+  "filename": "3417fd5df4e56.jpg",
+  "description": "On bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-05T02:47:40.158Z",
+  "longitude": {
+    "$numberDecimal": "121.0376099"
+  },
+  "latitude": {
+    "$numberDecimal": "14.56706"
+  },
+  "compass": {
+    "$numberDecimal": "253"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b63adf53baa86077f4b7cc"
+  },
+  "filename": "46ef3fc7b5b8e.jpg",
+  "description": "On a bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-01-05T02:49:30.904Z",
+  "longitude": {
+    "$numberDecimal": "121.0374031"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5672025"
+  },
+  "compass": {
+    "$numberDecimal": "253"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b63ba253baa86077f4b7ce"
+  },
+  "filename": "e746cf2b7c69b.jpg",
+  "description": "On a bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-01-05T02:53:03.979Z",
+  "longitude": {
+    "$numberDecimal": "121.0377328"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5670883"
+  },
+  "compass": {
+    "$numberDecimal": "253"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b63c5a53baa86077f4b7d0"
+  },
+  "filename": "3cee913a8e627.jpg",
+  "description": "Near Rockwell along walkway",
+  "weather": "Cloudy",
+  "datetime": "2023-01-05T02:55:04.662Z",
+  "longitude": {
+    "$numberDecimal": "121.0370968"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5668851"
+  },
+  "compass": {
+    "$numberDecimal": "345"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b63cad53baa86077f4b7d2"
+  },
+  "filename": "84bf16be2e4ae.jpg",
+  "description": "Near Rockwell along walkway",
+  "weather": "Sunny",
+  "datetime": "2023-01-05T02:57:34.055Z",
+  "longitude": {
+    "$numberDecimal": "121.0378779"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5670525"
+  },
+  "compass": {
+    "$numberDecimal": "40"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b63d1753baa86077f4b7d4"
+  },
+  "filename": "9e9b4e4d952b8.jpg",
+  "description": "Near Rockwell along walkway",
+  "weather": "Sunny",
+  "datetime": "2023-01-05T02:59:08.186Z",
+  "longitude": {
+    "$numberDecimal": "121.0377062"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5671214"
+  },
+  "compass": {
+    "$numberDecimal": "40"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b63d9e53baa86077f4b7d6"
+  },
+  "filename": "81083d3658d1e.jpg",
+  "description": "Bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-01-05T03:01:04.058Z",
+  "longitude": {
+    "$numberDecimal": "121.0374818"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5671474"
+  },
+  "compass": {
+    "$numberDecimal": "90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b63e0253baa86077f4b7d8"
+  },
+  "filename": "5b95e2880d3c3.jpg",
+  "description": "Bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-01-05T03:03:04.451Z",
+  "longitude": {
+    "$numberDecimal": "121.0378836"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5670552"
+  },
+  "compass": {
+    "$numberDecimal": "90"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b63fda53baa86077f4b7da"
+  },
+  "filename": "393cc1c742e64.jpg",
+  "description": "Walkway on a rainy day",
+  "weather": "Sunny",
+  "datetime": "2023-01-05T03:11:05.019Z",
+  "longitude": {
+    "$numberDecimal": "121.0380823"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5673423"
+  },
+  "compass": {
+    "$numberDecimal": "354"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6402f53baa86077f4b7dc"
+  },
+  "filename": "58ae22740e60c.jpg",
+  "description": "Walkway on a rainy day",
+  "weather": "Sunny",
+  "datetime": "2023-01-05T03:12:22.531Z",
+  "longitude": {
+    "$numberDecimal": "121.037287"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674873"
+  },
+  "compass": {
+    "$numberDecimal": "354"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b640ef53baa86077f4b7de"
+  },
+  "filename": "d1540f618db81.jpg",
+  "description": "Walkway on a rainy day",
+  "weather": "Sunny",
+  "datetime": "2023-01-05T03:15:39.155Z",
+  "longitude": {
+    "$numberDecimal": "121.0390061"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5672642"
+  },
+  "compass": {
+    "$numberDecimal": "345"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6415e53baa86077f4b7e0"
+  },
+  "filename": "3bd773645a357.jpg",
+  "description": "Walkway on a rainy day",
+  "weather": "Cloudy",
+  "datetime": "2023-01-05T03:17:22.935Z",
+  "longitude": {
+    "$numberDecimal": "121.0387111"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5676443"
+  },
+  "compass": {
+    "$numberDecimal": "345"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b641a653baa86077f4b7e2"
+  },
+  "filename": "77d6f33aabf4e.jpg",
+  "description": "Walkway on a rainy day",
+  "weather": "Cloudy",
+  "datetime": "2023-01-05T03:18:26.736Z",
+  "longitude": {
+    "$numberDecimal": "121.0386201"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5675884"
+  },
+  "compass": {
+    "$numberDecimal": "345"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b641eb53baa86077f4b7e4"
+  },
+  "filename": "40f18819e05cb.jpg",
+  "description": "Walkway on a rainy day",
+  "weather": "Cloudy",
+  "datetime": "2023-01-05T03:19:42.466Z",
+  "longitude": {
+    "$numberDecimal": "121.0388738"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674466"
+  },
+  "compass": {
+    "$numberDecimal": "345"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6423e53baa86077f4b7e6"
+  },
+  "filename": "eb34edb8271a3.jpg",
+  "description": "Walkway on a rainy day",
+  "weather": "Cloudy",
+  "datetime": "2023-01-05T03:21:04.546Z",
+  "longitude": {
+    "$numberDecimal": "121.0389443"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5677397"
+  },
+  "compass": {
+    "$numberDecimal": "345"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b642b653baa86077f4b7e8"
+  },
+  "filename": "dfad90e8d1412.jpg",
+  "description": "Walkway on a rainy day",
+  "weather": "Sunny",
+  "datetime": "2023-01-05T03:23:04.139Z",
+  "longitude": {
+    "$numberDecimal": "121.0391094"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5673609"
+  },
+  "compass": {
+    "$numberDecimal": "0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6454553baa86077f4b7ea"
+  },
+  "filename": "1ec7b254bdaaf.jpg",
+  "description": "Near Guadalupe bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-01-05T03:33:18.780Z",
+  "longitude": {
+    "$numberDecimal": "121.0442508"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5692548"
+  },
+  "compass": {
+    "$numberDecimal": "14"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6458553baa86077f4b7ec"
+  },
+  "filename": "cbf782153b803.jpg",
+  "description": "Near Guadalupe Bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-01-05T03:35:02.441Z",
+  "longitude": {
+    "$numberDecimal": "121.044728"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5680288"
+  },
+  "compass": {
+    "$numberDecimal": "15"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b645e853baa86077f4b7ee"
+  },
+  "filename": "597505188abfe.jpg",
+  "description": "Near Guadalupe Bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-01-05T03:36:45.742Z",
+  "longitude": {
+    "$numberDecimal": "121.0458581"
+  },
+  "latitude": {
+    "$numberDecimal": "14.568281"
+  },
+  "compass": {
+    "$numberDecimal": "15"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b6463953baa86077f4b7f0"
+  },
+  "filename": "4b2867b35553d.jpg",
+  "description": "Near Guadalupe Bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-01-05T03:37:58.933Z",
+  "longitude": {
+    "$numberDecimal": "121.0394525"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5682293"
+  },
+  "compass": {
+    "$numberDecimal": "15"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be1dc1be4ca6fa5bcd6eca"
+  },
+  "filename": "af9f58ca29d9.jpg",
+  "description": "Dirrty",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T02:23:19.303Z",
+  "longitude": {
+    "$numberDecimal": "121.045613"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5685312"
+  },
+  "compass": {
+    "$numberDecimal": "285.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be1df1be4ca6fa5bcd6ecc"
+  },
+  "filename": "952eff0fe0f6a.jpg",
+  "description": "Dirty",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T02:24:21.670Z",
+  "longitude": {
+    "$numberDecimal": "121.0457631"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5683062"
+  },
+  "compass": {
+    "$numberDecimal": "289.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be1ef8be4ca6fa5bcd6ece"
+  },
+  "filename": "76cfdc98fccc4.jpg",
+  "description": "Near guadalupe bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T02:28:13.752Z",
+  "longitude": {
+    "$numberDecimal": "121.0450259"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5679962"
+  },
+  "compass": {
+    "$numberDecimal": "2.099999999999966"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be1f8ebe4ca6fa5bcd6ed0"
+  },
+  "filename": "ec202a1f82f0c.jpg",
+  "description": "Near guadalupe bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T02:31:14.269Z",
+  "longitude": {
+    "$numberDecimal": "121.0448464"
+  },
+  "latitude": {
+    "$numberDecimal": "14.568184"
+  },
+  "compass": {
+    "$numberDecimal": "1.599999999999966"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be1fc6be4ca6fa5bcd6ed2"
+  },
+  "filename": "892b92278853d.jpg",
+  "description": "Near Guadalupe Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T02:32:10.739Z",
+  "longitude": {
+    "$numberDecimal": "121.0451614"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5682862"
+  },
+  "compass": {
+    "$numberDecimal": "3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be2029be4ca6fa5bcd6ed4"
+  },
+  "filename": "3cc34eb391885.jpg",
+  "description": "Near Guadalupe Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T02:34:02.873Z",
+  "longitude": {
+    "$numberDecimal": "121.044884"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5683175"
+  },
+  "compass": {
+    "$numberDecimal": "356.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be2065be4ca6fa5bcd6ed6"
+  },
+  "filename": "6438d9a3a0bf9.jpg",
+  "description": "Near Guadalupe Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T02:35:00.875Z",
+  "longitude": {
+    "$numberDecimal": "121.0446238"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5681166"
+  },
+  "compass": {
+    "$numberDecimal": "356.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be208dbe4ca6fa5bcd6ed8"
+  },
+  "filename": "1488a698e63bd.jpg",
+  "description": "Near Guadalupe Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T02:35:44.059Z",
+  "longitude": {
+    "$numberDecimal": "121.0448879"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5683104"
+  },
+  "compass": {
+    "$numberDecimal": "357.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be222cbe4ca6fa5bcd6eda"
+  },
+  "filename": "72994804521ec.jpg",
+  "description": "Near Powerplant Mall",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T02:42:13.870Z",
+  "longitude": {
+    "$numberDecimal": "121.0402338"
+  },
+  "latitude": {
+    "$numberDecimal": "14.567748"
+  },
+  "compass": {
+    "$numberDecimal": "341.4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be2256be4ca6fa5bcd6edc"
+  },
+  "filename": "7ab404394bb36.jpg",
+  "description": "Near Powerplant Mall",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T02:43:21.232Z",
+  "longitude": {
+    "$numberDecimal": "121.040002"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5675507"
+  },
+  "compass": {
+    "$numberDecimal": "349.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be229cbe4ca6fa5bcd6ede"
+  },
+  "filename": "9af65325b6362.jpg",
+  "description": "Near Powerplant Mall",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T02:44:29.393Z",
+  "longitude": {
+    "$numberDecimal": "121.0397144"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5678609"
+  },
+  "compass": {
+    "$numberDecimal": "343.2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be22d8be4ca6fa5bcd6ee0"
+  },
+  "filename": "654be90a139c2.jpg",
+  "description": "Near Powerplant Mall",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T02:45:30.158Z",
+  "longitude": {
+    "$numberDecimal": "121.039783"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5677139"
+  },
+  "compass": {
+    "$numberDecimal": "344.3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be230abe4ca6fa5bcd6ee2"
+  },
+  "filename": "1951d7cdd8244.jpg",
+  "description": "Near Powerplant Mall",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T02:46:17.500Z",
+  "longitude": {
+    "$numberDecimal": "121.0394038"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5675836"
+  },
+  "compass": {
+    "$numberDecimal": "6.599999999999966"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be2348be4ca6fa5bcd6ee4"
+  },
+  "filename": "ef3bd52643abd.jpg",
+  "description": "Near Powerplant Mall",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T02:47:10.240Z",
+  "longitude": {
+    "$numberDecimal": "121.0393537"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5675364"
+  },
+  "compass": {
+    "$numberDecimal": "4.599999999999966"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be2381be4ca6fa5bcd6ee6"
+  },
+  "filename": "1c037dd4d2086.jpg",
+  "description": "Near Powerplant Mall",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T02:48:13.773Z",
+  "longitude": {
+    "$numberDecimal": "121.0395792"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674745"
+  },
+  "compass": {
+    "$numberDecimal": "331.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be23aebe4ca6fa5bcd6ee8"
+  },
+  "filename": "4803f57676483.jpg",
+  "description": "Near Powerplant Mall",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T02:48:59.677Z",
+  "longitude": {
+    "$numberDecimal": "121.0393677"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5676383"
+  },
+  "compass": {
+    "$numberDecimal": "331.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be2404be4ca6fa5bcd6eea"
+  },
+  "filename": "52bb900d76657.jpg",
+  "description": "Near Powerplant Mall",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T02:50:23.490Z",
+  "longitude": {
+    "$numberDecimal": "121.0393912"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5682114"
+  },
+  "compass": {
+    "$numberDecimal": "342.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be2434be4ca6fa5bcd6eec"
+  },
+  "filename": "21fe40768c508.jpg",
+  "description": "Near Powerplant Mall",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T02:51:16.655Z",
+  "longitude": {
+    "$numberDecimal": "121.0391864"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674453"
+  },
+  "compass": {
+    "$numberDecimal": "347.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be249fbe4ca6fa5bcd6eee"
+  },
+  "filename": "cef68f7b66cd5.jpg",
+  "description": "Near Powerplant Mall",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T02:52:48.710Z",
+  "longitude": {
+    "$numberDecimal": "121.0389853"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674528"
+  },
+  "compass": {
+    "$numberDecimal": "338.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be24bfbe4ca6fa5bcd6ef0"
+  },
+  "filename": "73578938be63.jpg",
+  "description": "Near Powerplant Mall",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T02:53:34.126Z",
+  "longitude": {
+    "$numberDecimal": "121.0389836"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674673"
+  },
+  "compass": {
+    "$numberDecimal": "341.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be2540be4ca6fa5bcd6ef2"
+  },
+  "filename": "098a1d68568bc.jpg",
+  "description": "Near Estrella Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T02:55:44.915Z",
+  "longitude": {
+    "$numberDecimal": "121.0389983"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674289"
+  },
+  "compass": {
+    "$numberDecimal": "346.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be25c0be4ca6fa5bcd6ef4"
+  },
+  "filename": "8b08d1e3aaf1b.jpg",
+  "description": "Near Estrella Pantaleon Bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-01-11T02:57:46.508Z",
+  "longitude": {
+    "$numberDecimal": "121.0388779"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674873"
+  },
+  "compass": {
+    "$numberDecimal": "345.2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be260bbe4ca6fa5bcd6ef6"
+  },
+  "filename": "fb92d0f220ba3.jpg",
+  "description": "Near Estrella Pantaleon Bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-01-11T02:58:58.321Z",
+  "longitude": {
+    "$numberDecimal": "121.038652"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674539"
+  },
+  "compass": {
+    "$numberDecimal": "343.3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be266fbe4ca6fa5bcd6ef8"
+  },
+  "filename": "621ede2509ce8.jpg",
+  "description": "Estrella Pantaleon Bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-01-11T03:00:32.237Z",
+  "longitude": {
+    "$numberDecimal": "121.0383581"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5675445"
+  },
+  "compass": {
+    "$numberDecimal": "345.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be26f2be4ca6fa5bcd6efa"
+  },
+  "filename": "607221f3fcc7f.jpg",
+  "description": "On Estrella Pantaleon Bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-01-11T03:02:46.012Z",
+  "longitude": {
+    "$numberDecimal": "121.0384452"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674188"
+  },
+  "compass": {
+    "$numberDecimal": "84.19999999999999"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be272ebe4ca6fa5bcd6efc"
+  },
+  "filename": "2d43805e5efd4.jpg",
+  "description": "On Estrella Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T03:03:56.180Z",
+  "longitude": {
+    "$numberDecimal": "121.0383801"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674194"
+  },
+  "compass": {
+    "$numberDecimal": "69.30000000000001"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be27ccbe4ca6fa5bcd6efe"
+  },
+  "filename": "bfb9e5e510c5b.jpg",
+  "description": "Near Estrella Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T03:06:40.560Z",
+  "longitude": {
+    "$numberDecimal": "121.0383705"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5672994"
+  },
+  "compass": {
+    "$numberDecimal": "351.3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be27f8be4ca6fa5bcd6f00"
+  },
+  "filename": "b042764570b55.jpg",
+  "description": "Near Estrella Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T03:07:11.192Z",
+  "longitude": {
+    "$numberDecimal": "121.036846"
+  },
+  "latitude": {
+    "$numberDecimal": "14.566599"
+  },
+  "compass": {
+    "$numberDecimal": "351.3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be28a7be4ca6fa5bcd6f02"
+  },
+  "filename": "5fd8fea046d5a.jpg",
+  "description": "Near Estrella Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T03:09:59.296Z",
+  "longitude": {
+    "$numberDecimal": "121.03685"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5667863"
+  },
+  "compass": {
+    "$numberDecimal": "345.2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be28dbbe4ca6fa5bcd6f04"
+  },
+  "filename": "53241f797dc08.jpg",
+  "description": "Near q",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T03:11:08.514Z",
+  "longitude": {
+    "$numberDecimal": "121.0383303"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5672629"
+  },
+  "compass": {
+    "$numberDecimal": "345.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be36a1be4ca6fa5bcd6f06"
+  },
+  "filename": "190d822be2cb3.jpg",
+  "description": "Near Estrella Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T04:09:52.621Z",
+  "longitude": {
+    "$numberDecimal": "121.0363405"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5680922"
+  },
+  "compass": {
+    "$numberDecimal": "344.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be36f8be4ca6fa5bcd6f08"
+  },
+  "filename": "a7ce5ddbcfcb3.jpg",
+  "description": "Near Estrella Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T04:10:33.699Z",
+  "longitude": {
+    "$numberDecimal": "121.0368374"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5667971"
+  },
+  "compass": {
+    "$numberDecimal": "353.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be3781be4ca6fa5bcd6f0a"
+  },
+  "filename": "3d7f2507794b7.jpg",
+  "description": "Near Estrella Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T04:13:07.625Z",
+  "longitude": {
+    "$numberDecimal": "121.0374749"
+  },
+  "latitude": {
+    "$numberDecimal": "14.56735"
+  },
+  "compass": {
+    "$numberDecimal": "351.8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be37f0be4ca6fa5bcd6f0c"
+  },
+  "filename": "735af3d3d78cb.jpg",
+  "description": "Along JP Rizal Ave.",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T04:15:20.975Z",
+  "longitude": {
+    "$numberDecimal": "121.0381028"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5671595"
+  },
+  "compass": {
+    "$numberDecimal": "340.3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be3819be4ca6fa5bcd6f0e"
+  },
+  "filename": "3dabfae71c167.jpg",
+  "description": "Along JP Rizal Ave.",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T04:16:10.642Z",
+  "longitude": {
+    "$numberDecimal": "121.0387302"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5670834"
+  },
+  "compass": {
+    "$numberDecimal": "347.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be3883be4ca6fa5bcd6f10"
+  },
+  "filename": "154f0cb77c45e.jpg",
+  "description": "Along JP Rizal Ave.",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T04:17:53.536Z",
+  "longitude": {
+    "$numberDecimal": "121.0392065"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674346"
+  },
+  "compass": {
+    "$numberDecimal": "344"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be38c0be4ca6fa5bcd6f12"
+  },
+  "filename": "fc8963a8db031.jpg",
+  "description": "Along JP Rizal Ave.",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T04:18:52.546Z",
+  "longitude": {
+    "$numberDecimal": "121.0391733"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5670799"
+  },
+  "compass": {
+    "$numberDecimal": "353.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be390dbe4ca6fa5bcd6f14"
+  },
+  "filename": "fe79e42f7fffd.jpg",
+  "description": "Along JP Rizal Ave.",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T04:20:05.618Z",
+  "longitude": {
+    "$numberDecimal": "121.0388847"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5672695"
+  },
+  "compass": {
+    "$numberDecimal": "348"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be394dbe4ca6fa5bcd6f16"
+  },
+  "filename": "1eb0743881e5f.jpg",
+  "description": "Along JP Rizal Ave.",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T04:21:16.641Z",
+  "longitude": {
+    "$numberDecimal": "121.0399821"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674445"
+  },
+  "compass": {
+    "$numberDecimal": "4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be3b0cbe4ca6fa5bcd6f18"
+  },
+  "filename": "8750fecf323d7.jpg",
+  "description": "Near Guadalupe Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T04:28:43.241Z",
+  "longitude": {
+    "$numberDecimal": "121.0449986"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5681282"
+  },
+  "compass": {
+    "$numberDecimal": "5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be3b38be4ca6fa5bcd6f1a"
+  },
+  "filename": "873b3c3db7f43.jpg",
+  "description": "Near Guadalupe Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T04:29:23.814Z",
+  "longitude": {
+    "$numberDecimal": "121.0462333"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5683723"
+  },
+  "compass": {
+    "$numberDecimal": "2.599999999999966"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63be3bbebe4ca6fa5bcd6f1c"
+  },
+  "filename": "35bab86ba2f51.jpg",
+  "description": "Near Guadalupe Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-11T04:31:19.249Z",
+  "longitude": {
+    "$numberDecimal": "121.0466724"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5684745"
+  },
+  "compass": {
+    "$numberDecimal": "17.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbacefc515d93a92211086"
+  },
+  "filename": "57ce51ac4ba8c.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:14:03.202Z",
+  "longitude": {
+    "$numberDecimal": "121.0328335"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5688779"
+  },
+  "compass": {
+    "$numberDecimal": "230.29999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbad36c515d93a92211088"
+  },
+  "filename": "0604882d765c9.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:15:14.825Z",
+  "longitude": {
+    "$numberDecimal": "121.0321021"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5687237"
+  },
+  "compass": {
+    "$numberDecimal": "250.39999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbad6ec515d93a9221108a"
+  },
+  "filename": "ce42433f1164b.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:16:14.380Z",
+  "longitude": {
+    "$numberDecimal": "121.0324587"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5690604"
+  },
+  "compass": {
+    "$numberDecimal": "230.79999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbada4c515d93a9221108d"
+  },
+  "filename": "dd742fba09fc7.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:17:01.786Z",
+  "longitude": {
+    "$numberDecimal": "121.0324847"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5693224"
+  },
+  "compass": {
+    "$numberDecimal": "224.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbadf1c515d93a9221108f"
+  },
+  "filename": "94b9a71979774.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:18:17.934Z",
+  "longitude": {
+    "$numberDecimal": "121.0323838"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5692669"
+  },
+  "compass": {
+    "$numberDecimal": "232.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbae16c515d93a92211091"
+  },
+  "filename": "d7c7c53c14d2b.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:18:59.555Z",
+  "longitude": {
+    "$numberDecimal": "121.0322274"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5696313"
+  },
+  "compass": {
+    "$numberDecimal": "222.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbae7ec515d93a92211093"
+  },
+  "filename": "4e37421a92036.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:20:48.820Z",
+  "longitude": {
+    "$numberDecimal": "121.0322974"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5693822"
+  },
+  "compass": {
+    "$numberDecimal": "234"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbaedcc515d93a92211095"
+  },
+  "filename": "87ebb83c36e7e.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:22:23.335Z",
+  "longitude": {
+    "$numberDecimal": "121.0310848"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5696674"
+  },
+  "compass": {
+    "$numberDecimal": "209.79999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbaf45c515d93a92211097"
+  },
+  "filename": "3e8361eebffe.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:24:05.043Z",
+  "longitude": {
+    "$numberDecimal": "121.0319389"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5692785"
+  },
+  "compass": {
+    "$numberDecimal": "236.3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbafa8c515d93a92211099"
+  },
+  "filename": "45233ff897752.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:25:41.019Z",
+  "longitude": {
+    "$numberDecimal": "121.0320583"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5695656"
+  },
+  "compass": {
+    "$numberDecimal": "232.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbb001c515d93a9221109b"
+  },
+  "filename": "4e9d746a7a2f7.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:27:04.705Z",
+  "longitude": {
+    "$numberDecimal": "121.0320456"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5696174"
+  },
+  "compass": {
+    "$numberDecimal": "229.2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbb020c515d93a9221109d"
+  },
+  "filename": "39e19a64bfa87.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:27:47.971Z",
+  "longitude": {
+    "$numberDecimal": "121.0319936"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5696665"
+  },
+  "compass": {
+    "$numberDecimal": "245.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbb044c515d93a9221109f"
+  },
+  "filename": "1747cac0763ef.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:28:23.570Z",
+  "longitude": {
+    "$numberDecimal": "121.0318069"
+  },
+  "latitude": {
+    "$numberDecimal": "14.569698"
+  },
+  "compass": {
+    "$numberDecimal": "228.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbb07ac515d93a922110a1"
+  },
+  "filename": "9ef68960a19d2.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:29:14.503Z",
+  "longitude": {
+    "$numberDecimal": "121.0316139"
+  },
+  "latitude": {
+    "$numberDecimal": "14.569745"
+  },
+  "compass": {
+    "$numberDecimal": "231"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbb0a7c515d93a922110a3"
+  },
+  "filename": "bb679065ad2e7.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:30:02.875Z",
+  "longitude": {
+    "$numberDecimal": "121.0300134"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5717565"
+  },
+  "compass": {
+    "$numberDecimal": "225.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbb0d3c515d93a922110a5"
+  },
+  "filename": "6c1818931226e.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:30:42.114Z",
+  "longitude": {
+    "$numberDecimal": "121.0297109"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5718581"
+  },
+  "compass": {
+    "$numberDecimal": "231"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbb106c515d93a922110a7"
+  },
+  "filename": "9b7d709805279.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:31:29.094Z",
+  "longitude": {
+    "$numberDecimal": "121.0293761"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5719136"
+  },
+  "compass": {
+    "$numberDecimal": "227"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbb133c515d93a922110a9"
+  },
+  "filename": "84705ae62a92f.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:32:21.470Z",
+  "longitude": {
+    "$numberDecimal": "121.0290828"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5725075"
+  },
+  "compass": {
+    "$numberDecimal": "233"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbb19bc515d93a922110ab"
+  },
+  "filename": "3005825e114f.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:34:08.281Z",
+  "longitude": {
+    "$numberDecimal": "121.0284723"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5729854"
+  },
+  "compass": {
+    "$numberDecimal": "229.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbb1b9c515d93a922110ad"
+  },
+  "filename": "76fbbf851c7a1.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:34:38.257Z",
+  "longitude": {
+    "$numberDecimal": "121.0287503"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5728553"
+  },
+  "compass": {
+    "$numberDecimal": "236.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbb1f4c515d93a922110af"
+  },
+  "filename": "93ca9daa69062.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:35:37.611Z",
+  "longitude": {
+    "$numberDecimal": "121.0286169"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5728498"
+  },
+  "compass": {
+    "$numberDecimal": "222.2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbb221c515d93a922110b1"
+  },
+  "filename": "1feb59f5b412c.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:36:21.659Z",
+  "longitude": {
+    "$numberDecimal": "121.0285164"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5729121"
+  },
+  "compass": {
+    "$numberDecimal": "235.3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbb26fc515d93a922110b3"
+  },
+  "filename": "1172713aa7e6e.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:37:38.692Z",
+  "longitude": {
+    "$numberDecimal": "121.0271964"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5740126"
+  },
+  "compass": {
+    "$numberDecimal": "228.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbb29fc515d93a922110b5"
+  },
+  "filename": "2fa73a427c2b8.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:38:26.809Z",
+  "longitude": {
+    "$numberDecimal": "121.0284118"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5729858"
+  },
+  "compass": {
+    "$numberDecimal": "226"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbb2c7c515d93a922110b7"
+  },
+  "filename": "fecd9380318f3.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:39:05.086Z",
+  "longitude": {
+    "$numberDecimal": "121.0282727"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5731544"
+  },
+  "compass": {
+    "$numberDecimal": "216.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbb325c515d93a922110b9"
+  },
+  "filename": "70ecf3430c641.jpg",
+  "description": "Along Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:40:33.075Z",
+  "longitude": {
+    "$numberDecimal": "121.0276667"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5732036"
+  },
+  "compass": {
+    "$numberDecimal": "222.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63cbb373c515d93a922110bb"
+  },
+  "filename": "6660bfd083303.jpg",
+  "description": "Along JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-21T09:41:44.228Z",
+  "longitude": {
+    "$numberDecimal": "121.0275715"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5734374"
+  },
+  "compass": {
+    "$numberDecimal": "262.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0e2cbebc37e0d3cf32a1b"
+  },
+  "filename": "6fcf6ff21cc5a.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:05:16.227Z",
+  "longitude": {
+    "$numberDecimal": "121.0450253"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5681564"
+  },
+  "compass": {
+    "$numberDecimal": "338.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0e311ebc37e0d3cf32a1d"
+  },
+  "filename": "9507abc340293.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:06:08.339Z",
+  "longitude": {
+    "$numberDecimal": "121.0446809"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5684482"
+  },
+  "compass": {
+    "$numberDecimal": "90.69999999999999"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0e350ebc37e0d3cf32a1f"
+  },
+  "filename": "d1f9e65662be4.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:07:17.702Z",
+  "longitude": {
+    "$numberDecimal": "121.0450578"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5679769"
+  },
+  "compass": {
+    "$numberDecimal": "14.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0e4d6ebc37e0d3cf32a21"
+  },
+  "filename": "dd0d2f33e681d.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:13:53.486Z",
+  "longitude": {
+    "$numberDecimal": "121.0403124"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5676786"
+  },
+  "compass": {
+    "$numberDecimal": "11.399999999999977"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0e4fbebc37e0d3cf32a23"
+  },
+  "filename": "9a51bf2d4ae.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:14:33.157Z",
+  "longitude": {
+    "$numberDecimal": "121.0402009"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5676303"
+  },
+  "compass": {
+    "$numberDecimal": "24.19999999999999"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0e534ebc37e0d3cf32a25"
+  },
+  "filename": "c6b39103de452.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:15:26.543Z",
+  "longitude": {
+    "$numberDecimal": "121.0400841"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5677317"
+  },
+  "compass": {
+    "$numberDecimal": "341.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0e563ebc37e0d3cf32a27"
+  },
+  "filename": "f4e7fb500bf67.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:16:18.957Z",
+  "longitude": {
+    "$numberDecimal": "121.0398048"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5675758"
+  },
+  "compass": {
+    "$numberDecimal": "330.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0e594ebc37e0d3cf32a29"
+  },
+  "filename": "6a45c4b0236fe.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:17:09.323Z",
+  "longitude": {
+    "$numberDecimal": "121.0395504"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5675876"
+  },
+  "compass": {
+    "$numberDecimal": "329.3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0e5c0ebc37e0d3cf32a2b"
+  },
+  "filename": "9535ae172fbd7.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:17:52.317Z",
+  "longitude": {
+    "$numberDecimal": "121.0399852"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674943"
+  },
+  "compass": {
+    "$numberDecimal": "24.69999999999999"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0e5f4ebc37e0d3cf32a2d"
+  },
+  "filename": "6e6f87223f243.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:18:39.506Z",
+  "longitude": {
+    "$numberDecimal": "121.0396126"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5675127"
+  },
+  "compass": {
+    "$numberDecimal": "333.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0e62bebc37e0d3cf32a2f"
+  },
+  "filename": "eee3082b72b95.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:19:35.411Z",
+  "longitude": {
+    "$numberDecimal": "121.039426"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674931"
+  },
+  "compass": {
+    "$numberDecimal": "358.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0e667ebc37e0d3cf32a31"
+  },
+  "filename": "727dfde5e2652.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:20:38.870Z",
+  "longitude": {
+    "$numberDecimal": "121.0394373"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674833"
+  },
+  "compass": {
+    "$numberDecimal": "345"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0e711ebc37e0d3cf32a33"
+  },
+  "filename": "3af58d4cd66da.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:23:25.305Z",
+  "longitude": {
+    "$numberDecimal": "121.0392208"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674134"
+  },
+  "compass": {
+    "$numberDecimal": "337.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0e763ebc37e0d3cf32a35"
+  },
+  "filename": "b98d99e20b9a.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:24:48.284Z",
+  "longitude": {
+    "$numberDecimal": "121.0390851"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674081"
+  },
+  "compass": {
+    "$numberDecimal": "353.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0e7e5ebc37e0d3cf32a37"
+  },
+  "filename": "f98552f5fa0f9.jpg",
+  "description": "Near Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:26:56.697Z",
+  "longitude": {
+    "$numberDecimal": "121.0372625"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5669027"
+  },
+  "compass": {
+    "$numberDecimal": "353.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0e84debc37e0d3cf32a39"
+  },
+  "filename": "216c40c2c957d.jpg",
+  "description": "Near Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:28:24.108Z",
+  "longitude": {
+    "$numberDecimal": "121.0388668"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674173"
+  },
+  "compass": {
+    "$numberDecimal": "347"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0e8d5ebc37e0d3cf32a3b"
+  },
+  "filename": "98e2c880176d9.jpg",
+  "description": "Near Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:31:00.194Z",
+  "longitude": {
+    "$numberDecimal": "121.0387197"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5673118"
+  },
+  "compass": {
+    "$numberDecimal": "359.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0e939ebc37e0d3cf32a3d"
+  },
+  "filename": "83a4f8745459a.jpg",
+  "description": "Near Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:32:28.876Z",
+  "longitude": {
+    "$numberDecimal": "121.0385745"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5672986"
+  },
+  "compass": {
+    "$numberDecimal": "4.199999999999989"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0ec2cebc37e0d3cf32a42"
+  },
+  "filename": "bbfe4f079fb48.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:45:06.142Z",
+  "longitude": {
+    "$numberDecimal": "121.0356378"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5667606"
+  },
+  "compass": {
+    "$numberDecimal": "56.30000000000001"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0ec86ebc37e0d3cf32a44"
+  },
+  "filename": "450c365910026.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:46:25.556Z",
+  "longitude": {
+    "$numberDecimal": "121.0354512"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5667687"
+  },
+  "compass": {
+    "$numberDecimal": "31.099999999999966"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0ecbfebc37e0d3cf32a46"
+  },
+  "filename": "e3f5963a0f201.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:47:35.467Z",
+  "longitude": {
+    "$numberDecimal": "121.0345665"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5665155"
+  },
+  "compass": {
+    "$numberDecimal": "21"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0ed06ebc37e0d3cf32a48"
+  },
+  "filename": "2ba0191ab3d47.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:48:41.140Z",
+  "longitude": {
+    "$numberDecimal": "121.034508"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5668178"
+  },
+  "compass": {
+    "$numberDecimal": "32.69999999999999"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0eebfebc37e0d3cf32a4a"
+  },
+  "filename": "d534523ac3727.jpg",
+  "description": "On Makati-Mandaluyong bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:56:15.559Z",
+  "longitude": {
+    "$numberDecimal": "121.0316955"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5690842"
+  },
+  "compass": {
+    "$numberDecimal": "142.2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0ef02ebc37e0d3cf32a4c"
+  },
+  "filename": "95bd7ad6529d1.jpg",
+  "description": "On Makati-Mandaluyong bridge",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T08:56:56.652Z",
+  "longitude": {
+    "$numberDecimal": "121.0319614"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5694072"
+  },
+  "compass": {
+    "$numberDecimal": "132.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0efbfebc37e0d3cf32a4e"
+  },
+  "filename": "dd84333a1a776.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:00:31.275Z",
+  "longitude": {
+    "$numberDecimal": "121.0321225"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5695458"
+  },
+  "compass": {
+    "$numberDecimal": "197.89999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f004ebc37e0d3cf32a50"
+  },
+  "filename": "f4bd2f7908857.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:01:19.871Z",
+  "longitude": {
+    "$numberDecimal": "121.0322305"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5694762"
+  },
+  "compass": {
+    "$numberDecimal": "216.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f030ebc37e0d3cf32a52"
+  },
+  "filename": "7c37ecaa1dc89.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:02:17.912Z",
+  "longitude": {
+    "$numberDecimal": "121.0324244"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5692502"
+  },
+  "compass": {
+    "$numberDecimal": "242"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f0b9ebc37e0d3cf32a55"
+  },
+  "filename": "6e8f44abb9bc3.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:04:41.547Z",
+  "longitude": {
+    "$numberDecimal": "121.0318348"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5695921"
+  },
+  "compass": {
+    "$numberDecimal": "206.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f0eeebc37e0d3cf32a57"
+  },
+  "filename": "b5818db101931.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:05:36.648Z",
+  "longitude": {
+    "$numberDecimal": "121.0308243"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5696769"
+  },
+  "compass": {
+    "$numberDecimal": "223.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f133ebc37e0d3cf32a59"
+  },
+  "filename": "83596eb0af94.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:06:43.953Z",
+  "longitude": {
+    "$numberDecimal": "121.0317751"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5696626"
+  },
+  "compass": {
+    "$numberDecimal": "215.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f165ebc37e0d3cf32a5b"
+  },
+  "filename": "9d3b0557c7fa3.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:07:34.178Z",
+  "longitude": {
+    "$numberDecimal": "121.0316527"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5698745"
+  },
+  "compass": {
+    "$numberDecimal": "215.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f19febc37e0d3cf32a5d"
+  },
+  "filename": "9c7d8f043fd7e.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:08:32.911Z",
+  "longitude": {
+    "$numberDecimal": "121.0314724"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5700332"
+  },
+  "compass": {
+    "$numberDecimal": "225.79999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f1deebc37e0d3cf32a5f"
+  },
+  "filename": "196498304425c.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:09:39.354Z",
+  "longitude": {
+    "$numberDecimal": "121.0314098"
+  },
+  "latitude": {
+    "$numberDecimal": "14.570097"
+  },
+  "compass": {
+    "$numberDecimal": "215.79999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f221ebc37e0d3cf32a61"
+  },
+  "filename": "813ed0084f0b6.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:10:40.772Z",
+  "longitude": {
+    "$numberDecimal": "121.0313704"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5700987"
+  },
+  "compass": {
+    "$numberDecimal": "219"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f24febc37e0d3cf32a63"
+  },
+  "filename": "823d0434ce.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:11:22.409Z",
+  "longitude": {
+    "$numberDecimal": "121.0311519"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5703589"
+  },
+  "compass": {
+    "$numberDecimal": "232.2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f27eebc37e0d3cf32a65"
+  },
+  "filename": "e98a17d513849.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:12:15.003Z",
+  "longitude": {
+    "$numberDecimal": "121.0310473"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5703881"
+  },
+  "compass": {
+    "$numberDecimal": "194.29999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f2f6ebc37e0d3cf32a67"
+  },
+  "filename": "37cfe6b8f1817.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:14:02.272Z",
+  "longitude": {
+    "$numberDecimal": "121.0287732"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5726196"
+  },
+  "compass": {
+    "$numberDecimal": "222"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f329ebc37e0d3cf32a69"
+  },
+  "filename": "b76b30d25d5d2.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:15:09.870Z",
+  "longitude": {
+    "$numberDecimal": "121.02936"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5723609"
+  },
+  "compass": {
+    "$numberDecimal": "235.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f359ebc37e0d3cf32a6b"
+  },
+  "filename": "34939b686e1af.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:15:57.058Z",
+  "longitude": {
+    "$numberDecimal": "121.0291899"
+  },
+  "latitude": {
+    "$numberDecimal": "14.572402"
+  },
+  "compass": {
+    "$numberDecimal": "229.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f3b2ebc37e0d3cf32a6e"
+  },
+  "filename": "869cd34600df3.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:17:24.229Z",
+  "longitude": {
+    "$numberDecimal": "121.028515"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5727917"
+  },
+  "compass": {
+    "$numberDecimal": "209.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f3e2ebc37e0d3cf32a70"
+  },
+  "filename": "2e1b62dbcd218.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:18:11.327Z",
+  "longitude": {
+    "$numberDecimal": "121.0282052"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5729272"
+  },
+  "compass": {
+    "$numberDecimal": "234.2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f415ebc37e0d3cf32a72"
+  },
+  "filename": "753f03bb71ccd.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:19:02.097Z",
+  "longitude": {
+    "$numberDecimal": "121.0282409"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5730368"
+  },
+  "compass": {
+    "$numberDecimal": "214.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f44aebc37e0d3cf32a75"
+  },
+  "filename": "c84921ca8af8d.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:19:53.926Z",
+  "longitude": {
+    "$numberDecimal": "121.0281238"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5730185"
+  },
+  "compass": {
+    "$numberDecimal": "217.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f490ebc37e0d3cf32a77"
+  },
+  "filename": "dc647f37943de.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:20:50.903Z",
+  "longitude": {
+    "$numberDecimal": "121.0275337"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5737081"
+  },
+  "compass": {
+    "$numberDecimal": "302.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f4b8ebc37e0d3cf32a79"
+  },
+  "filename": "51d48e8bf3b4a.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:21:48.940Z",
+  "longitude": {
+    "$numberDecimal": "121.0278529"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5732501"
+  },
+  "compass": {
+    "$numberDecimal": "207.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f4f5ebc37e0d3cf32a7b"
+  },
+  "filename": "865efe17dc92c.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:22:48.225Z",
+  "longitude": {
+    "$numberDecimal": "121.0277268"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5734078"
+  },
+  "compass": {
+    "$numberDecimal": "210.29999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f545ebc37e0d3cf32a7d"
+  },
+  "filename": "046c09a7cc25b.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:24:06.813Z",
+  "longitude": {
+    "$numberDecimal": "121.026723"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5744821"
+  },
+  "compass": {
+    "$numberDecimal": "208.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f574ebc37e0d3cf32a7f"
+  },
+  "filename": "9a0c46307de13.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:24:53.926Z",
+  "longitude": {
+    "$numberDecimal": "121.0276902"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5733917"
+  },
+  "compass": {
+    "$numberDecimal": "69.69999999999999"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f5b8ebc37e0d3cf32a81"
+  },
+  "filename": "b8060a4ccc159.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:26:03.102Z",
+  "longitude": {
+    "$numberDecimal": "121.0273611"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5734993"
+  },
+  "compass": {
+    "$numberDecimal": "73.39999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f5f8ebc37e0d3cf32a83"
+  },
+  "filename": "f43bb3ac63ddf.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:26:59.249Z",
+  "longitude": {
+    "$numberDecimal": "121.0273483"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5735773"
+  },
+  "compass": {
+    "$numberDecimal": "97.09999999999997"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f737ebc37e0d3cf32a86"
+  },
+  "filename": "0d59caf0a985.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:32:24.473Z",
+  "longitude": {
+    "$numberDecimal": "121.0263798"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5745788"
+  },
+  "compass": {
+    "$numberDecimal": "352.4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f773ebc37e0d3cf32a88"
+  },
+  "filename": "ca3ae03f671a3.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:33:27.471Z",
+  "longitude": {
+    "$numberDecimal": "121.0263747"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5743115"
+  },
+  "compass": {
+    "$numberDecimal": "83.30000000000001"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f7beebc37e0d3cf32a8a"
+  },
+  "filename": "311a09ecf2814.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:34:39.666Z",
+  "longitude": {
+    "$numberDecimal": "121.0266733"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5740702"
+  },
+  "compass": {
+    "$numberDecimal": "230.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f7f6ebc37e0d3cf32a8c"
+  },
+  "filename": "6dca8b2dd43ec.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:35:38.873Z",
+  "longitude": {
+    "$numberDecimal": "121.0271751"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5738844"
+  },
+  "compass": {
+    "$numberDecimal": "225.2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f83debc37e0d3cf32a8e"
+  },
+  "filename": "1669ce9572c44.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:36:40.216Z",
+  "longitude": {
+    "$numberDecimal": "121.0275335"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5736664"
+  },
+  "compass": {
+    "$numberDecimal": "233.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f878ebc37e0d3cf32a91"
+  },
+  "filename": "82f7b2dfb1517.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:37:47.984Z",
+  "longitude": {
+    "$numberDecimal": "121.0273783"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5737325"
+  },
+  "compass": {
+    "$numberDecimal": "238"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f8b5ebc37e0d3cf32a93"
+  },
+  "filename": "e0ce6c5be6b08.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:38:49.527Z",
+  "longitude": {
+    "$numberDecimal": "121.0276034"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5735718"
+  },
+  "compass": {
+    "$numberDecimal": "244.2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f920ebc37e0d3cf32a95"
+  },
+  "filename": "19e27af7b72aa.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:40:36.290Z",
+  "longitude": {
+    "$numberDecimal": "121.0276969"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5734624"
+  },
+  "compass": {
+    "$numberDecimal": "240.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f956ebc37e0d3cf32a97"
+  },
+  "filename": "4129e7700b1a9.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:41:31.060Z",
+  "longitude": {
+    "$numberDecimal": "121.0295991"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5721789"
+  },
+  "compass": {
+    "$numberDecimal": "219.79999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f991ebc37e0d3cf32a99"
+  },
+  "filename": "9e93a98cb030f.jpg",
+  "description": "Coronado Street",
+  "weather": "Cloudy",
+  "datetime": "2023-01-25T09:42:25.326Z",
+  "longitude": {
+    "$numberDecimal": "121.0279557"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5732814"
+  },
+  "compass": {
+    "$numberDecimal": "234.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f9cfebc37e0d3cf32a9b"
+  },
+  "filename": "9cda0086c043.jpg",
+  "description": "Coronado Street",
+  "weather": "Cloudy",
+  "datetime": "2023-01-25T09:43:21.493Z",
+  "longitude": {
+    "$numberDecimal": "121.0297676"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5717353"
+  },
+  "compass": {
+    "$numberDecimal": "222.2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0fa1aebc37e0d3cf32a9e"
+  },
+  "filename": "b655af1f019e5.jpg",
+  "description": "Coronado Street",
+  "weather": "Cloudy",
+  "datetime": "2023-01-25T09:44:37.334Z",
+  "longitude": {
+    "$numberDecimal": "121.0301812"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5712138"
+  },
+  "compass": {
+    "$numberDecimal": "202.29999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0fa51ebc37e0d3cf32aa0"
+  },
+  "filename": "1db25d89503e3.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:45:36.612Z",
+  "longitude": {
+    "$numberDecimal": "121.0306179"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5709053"
+  },
+  "compass": {
+    "$numberDecimal": "225.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0fa91ebc37e0d3cf32aa2"
+  },
+  "filename": "84b4645ea7867.jpg",
+  "description": "Coronado Street",
+  "weather": "Cloudy",
+  "datetime": "2023-01-25T09:46:40.844Z",
+  "longitude": {
+    "$numberDecimal": "121.0310246"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5707484"
+  },
+  "compass": {
+    "$numberDecimal": "245.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0fad6ebc37e0d3cf32aa4"
+  },
+  "filename": "c83ef8a2711ba.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:47:53.224Z",
+  "longitude": {
+    "$numberDecimal": "121.0312713"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5702007"
+  },
+  "compass": {
+    "$numberDecimal": "219"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0fb45ebc37e0d3cf32aa7"
+  },
+  "filename": "b0e1dcbc7c0d2.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:49:43.206Z",
+  "longitude": {
+    "$numberDecimal": "121.0304638"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5699075"
+  },
+  "compass": {
+    "$numberDecimal": "225.2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0fb93ebc37e0d3cf32aa9"
+  },
+  "filename": "af7f100769e6d.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:50:32.831Z",
+  "longitude": {
+    "$numberDecimal": "121.0322347"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5696317"
+  },
+  "compass": {
+    "$numberDecimal": "236.89999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0fbb0ebc37e0d3cf32aab"
+  },
+  "filename": "b898834e0c802.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:51:27.823Z",
+  "longitude": {
+    "$numberDecimal": "121.0323685"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5694897"
+  },
+  "compass": {
+    "$numberDecimal": "210.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0fc2cebc37e0d3cf32aaf"
+  },
+  "filename": "429aacb38b7a6.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:53:21.748Z",
+  "longitude": {
+    "$numberDecimal": "121.0318833"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5698368"
+  },
+  "compass": {
+    "$numberDecimal": "229.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0fc7febc37e0d3cf32ab1"
+  },
+  "filename": "82cf0240e3ba1.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-01-25T09:54:42.959Z",
+  "longitude": {
+    "$numberDecimal": "121.0321002"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5696091"
+  },
+  "compass": {
+    "$numberDecimal": "214.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d379d4babbac1c3c76d66b"
+  },
+  "filename": "0e093326bd78b.jpg",
+  "description": "Riverbank Mila dela Industria",
+  "weather": "Cloudy",
+  "datetime": "2023-01-27T05:59:19.980Z",
+  "longitude": {
+    "$numberDecimal": "120.9724996"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5962483"
+  },
+  "compass": {
+    "$numberDecimal": "102.80000000000001"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e039b3089a53f9416881a9"
+  },
+  "filename": "762e911169613.jpg",
+  "description": "Near Guadalupe station",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:19:52.798Z",
+  "longitude": {
+    "$numberDecimal": "121.0455693"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5690634"
+  },
+  "compass": {
+    "$numberDecimal": "5.399999999999977"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e039d6089a53f9416881ab"
+  },
+  "filename": "4f5923f999b2d.jpg",
+  "description": "Near Guadalupe station",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:20:36.431Z",
+  "longitude": {
+    "$numberDecimal": "121.0446123"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5681097"
+  },
+  "compass": {
+    "$numberDecimal": "5.699999999999989"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e039f8089a53f9416881ad"
+  },
+  "filename": "c14e73f073bb6.jpg",
+  "description": "Near Guadalupe station",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:21:11.783Z",
+  "longitude": {
+    "$numberDecimal": "121.0453053"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5689586"
+  },
+  "compass": {
+    "$numberDecimal": "12.799999999999955"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03b1a089a53f9416881af"
+  },
+  "filename": "030cd11a378c5.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:26:01.319Z",
+  "longitude": {
+    "$numberDecimal": "121.0398832"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674933"
+  },
+  "compass": {
+    "$numberDecimal": "7.699999999999989"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03b55089a53f9416881b1"
+  },
+  "filename": "868df0899e668.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:26:59.848Z",
+  "longitude": {
+    "$numberDecimal": "121.0387534"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5679514"
+  },
+  "compass": {
+    "$numberDecimal": "337.2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03b7a089a53f9416881b3"
+  },
+  "filename": "d61e74a73e2fa.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:27:29.602Z",
+  "longitude": {
+    "$numberDecimal": "121.0393188"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5673844"
+  },
+  "compass": {
+    "$numberDecimal": "338.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03bbe089a53f9416881b5"
+  },
+  "filename": "2659d2ed94fd7.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:28:36.734Z",
+  "longitude": {
+    "$numberDecimal": "121.0391792"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5673557"
+  },
+  "compass": {
+    "$numberDecimal": "14.199999999999989"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03bbe089a53f9416881b7"
+  },
+  "filename": "41f595636496.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:28:36.734Z",
+  "longitude": {
+    "$numberDecimal": "121.0391792"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5673557"
+  },
+  "compass": {
+    "$numberDecimal": "14.199999999999989"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03bd9089a53f9416881b9"
+  },
+  "filename": "dd4de175c32a7.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:29:13.096Z",
+  "longitude": {
+    "$numberDecimal": "121.0389001"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5672917"
+  },
+  "compass": {
+    "$numberDecimal": "338.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03c01089a53f9416881bb"
+  },
+  "filename": "174e0717ec7ad.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:29:50.923Z",
+  "longitude": {
+    "$numberDecimal": "121.0390457"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5672819"
+  },
+  "compass": {
+    "$numberDecimal": "340"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03c2f089a53f9416881bd"
+  },
+  "filename": "e477725ce9e27.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:30:41.519Z",
+  "longitude": {
+    "$numberDecimal": "121.0384874"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674329"
+  },
+  "compass": {
+    "$numberDecimal": "349.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03c50089a53f9416881bf"
+  },
+  "filename": "5a1655525eb37.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:31:13.707Z",
+  "longitude": {
+    "$numberDecimal": "121.0383435"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5679828"
+  },
+  "compass": {
+    "$numberDecimal": "345.3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03c9d089a53f9416881c1"
+  },
+  "filename": "add3d02765501.jpg",
+  "description": "Near Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:32:33.364Z",
+  "longitude": {
+    "$numberDecimal": "121.0382194"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5679904"
+  },
+  "compass": {
+    "$numberDecimal": "355.8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03cd7089a53f9416881c3"
+  },
+  "filename": "e4771a2765c93.jpg",
+  "description": "Near Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:33:28.025Z",
+  "longitude": {
+    "$numberDecimal": "121.0374141"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5673728"
+  },
+  "compass": {
+    "$numberDecimal": "323.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03cff089a53f9416881c5"
+  },
+  "filename": "b93dfbe1322a1.jpg",
+  "description": "Near Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:34:05.616Z",
+  "longitude": {
+    "$numberDecimal": "121.0369809"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5667659"
+  },
+  "compass": {
+    "$numberDecimal": "351.8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03d23089a53f9416881c7"
+  },
+  "filename": "22c7d2ff1a3b6.jpg",
+  "description": "Near Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:34:40.028Z",
+  "longitude": {
+    "$numberDecimal": "121.0368968"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5668474"
+  },
+  "compass": {
+    "$numberDecimal": "345.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03d44089a53f9416881c9"
+  },
+  "filename": "e8b2ace691901.jpg",
+  "description": "Near Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:35:14.213Z",
+  "longitude": {
+    "$numberDecimal": "121.036699"
+  },
+  "latitude": {
+    "$numberDecimal": "14.566698"
+  },
+  "compass": {
+    "$numberDecimal": "344"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03d69089a53f9416881cb"
+  },
+  "filename": "72775d70048cd.jpg",
+  "description": "Near Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:35:48.987Z",
+  "longitude": {
+    "$numberDecimal": "121.0366053"
+  },
+  "latitude": {
+    "$numberDecimal": "14.566697"
+  },
+  "compass": {
+    "$numberDecimal": "326.3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03da0089a53f9416881cd"
+  },
+  "filename": "117363176dbff.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:36:48.620Z",
+  "longitude": {
+    "$numberDecimal": "121.0366607"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5667313"
+  },
+  "compass": {
+    "$numberDecimal": "7.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03dc9089a53f9416881cf"
+  },
+  "filename": "4fe20259cc1b7.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:37:33.200Z",
+  "longitude": {
+    "$numberDecimal": "121.0366768"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5667526"
+  },
+  "compass": {
+    "$numberDecimal": "1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03e27089a53f9416881d1"
+  },
+  "filename": "ed95d966092ee.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:38:59.607Z",
+  "longitude": {
+    "$numberDecimal": "121.0357542"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5676998"
+  },
+  "compass": {
+    "$numberDecimal": "357.4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03e50089a53f9416881d3"
+  },
+  "filename": "a28aa401fa5c7.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:39:45.949Z",
+  "longitude": {
+    "$numberDecimal": "121.0356589"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5667945"
+  },
+  "compass": {
+    "$numberDecimal": "6.099999999999966"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03e6d089a53f9416881d5"
+  },
+  "filename": "d65dc732853be.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:40:13.202Z",
+  "longitude": {
+    "$numberDecimal": "121.0356718"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5667805"
+  },
+  "compass": {
+    "$numberDecimal": "5.599999999999966"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03e90089a53f9416881d7"
+  },
+  "filename": "ffba0916daa0f.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:40:41.810Z",
+  "longitude": {
+    "$numberDecimal": "121.0354843"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5667873"
+  },
+  "compass": {
+    "$numberDecimal": "5.199999999999989"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03f44089a53f9416881da"
+  },
+  "filename": "42fe4ed67557a.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:43:50.073Z",
+  "longitude": {
+    "$numberDecimal": "121.0351887"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5675718"
+  },
+  "compass": {
+    "$numberDecimal": "358"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03f70089a53f9416881dc"
+  },
+  "filename": "387ae15f67d87.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:44:31.808Z",
+  "longitude": {
+    "$numberDecimal": "121.0344658"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5669139"
+  },
+  "compass": {
+    "$numberDecimal": "18.19999999999999"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03f9e089a53f9416881de"
+  },
+  "filename": "530bf8531ed52.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:45:11.469Z",
+  "longitude": {
+    "$numberDecimal": "121.0345808"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5668361"
+  },
+  "compass": {
+    "$numberDecimal": "16.69999999999999"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03fc1089a53f9416881e0"
+  },
+  "filename": "ed5e7d0c5ea35.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:45:51.463Z",
+  "longitude": {
+    "$numberDecimal": "121.0342164"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5673923"
+  },
+  "compass": {
+    "$numberDecimal": "15.099999999999966"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e03feb089a53f9416881e2"
+  },
+  "filename": "0ba0fd6bea4e4.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:46:33.425Z",
+  "longitude": {
+    "$numberDecimal": "121.0341138"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5668595"
+  },
+  "compass": {
+    "$numberDecimal": "343.8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0405d089a53f9416881e4"
+  },
+  "filename": "bd48dcb76c5f5.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:48:29.204Z",
+  "longitude": {
+    "$numberDecimal": "121.0345665"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5671315"
+  },
+  "compass": {
+    "$numberDecimal": "6.7999999999999545"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e04088089a53f9416881e6"
+  },
+  "filename": "876a48630465c.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:49:15.277Z",
+  "longitude": {
+    "$numberDecimal": "121.0345999"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5668543"
+  },
+  "compass": {
+    "$numberDecimal": "14.399999999999977"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e040bd089a53f9416881e8"
+  },
+  "filename": "7470a49ca45af.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:50:05.126Z",
+  "longitude": {
+    "$numberDecimal": "121.0350693"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5676603"
+  },
+  "compass": {
+    "$numberDecimal": "36.099999999999966"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e040e4089a53f9416881ea"
+  },
+  "filename": "3da0059d7521e.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:50:42.287Z",
+  "longitude": {
+    "$numberDecimal": "121.0355559"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5666987"
+  },
+  "compass": {
+    "$numberDecimal": "26.19999999999999"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0411f089a53f9416881ec"
+  },
+  "filename": "f963c1616689.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:51:44.635Z",
+  "longitude": {
+    "$numberDecimal": "121.0354151"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5667786"
+  },
+  "compass": {
+    "$numberDecimal": "12.299999999999955"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e04147089a53f9416881ee"
+  },
+  "filename": "ca97a21ca8097.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:52:26.704Z",
+  "longitude": {
+    "$numberDecimal": "121.0356196"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5667374"
+  },
+  "compass": {
+    "$numberDecimal": "11.399999999999977"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0416f089a53f9416881f0"
+  },
+  "filename": "fe05239be2b25.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:52:55.591Z",
+  "longitude": {
+    "$numberDecimal": "121.0356844"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5666455"
+  },
+  "compass": {
+    "$numberDecimal": "9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0418a089a53f9416881f2"
+  },
+  "filename": "0dec9e72fc0b.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:53:31.923Z",
+  "longitude": {
+    "$numberDecimal": "121.0352346"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5685966"
+  },
+  "compass": {
+    "$numberDecimal": "3.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e041d6089a53f9416881f5"
+  },
+  "filename": "d38d72845052e.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:54:46.103Z",
+  "longitude": {
+    "$numberDecimal": "121.0355741"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5669613"
+  },
+  "compass": {
+    "$numberDecimal": "357.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e04209089a53f9416881f7"
+  },
+  "filename": "d16abd09607fb.jpg",
+  "description": "Near Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:55:37.604Z",
+  "longitude": {
+    "$numberDecimal": "121.0358248"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5668356"
+  },
+  "compass": {
+    "$numberDecimal": "349.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e04241089a53f9416881f9"
+  },
+  "filename": "b2123d61ebe75.jpg",
+  "description": "Near Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:56:19.882Z",
+  "longitude": {
+    "$numberDecimal": "121.036082"
+  },
+  "latitude": {
+    "$numberDecimal": "14.566932"
+  },
+  "compass": {
+    "$numberDecimal": "350.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e042b5089a53f9416881fb"
+  },
+  "filename": "78e48437386b9.jpg",
+  "description": "On Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:58:15.350Z",
+  "longitude": {
+    "$numberDecimal": "121.0364472"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5670124"
+  },
+  "compass": {
+    "$numberDecimal": "276.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e042e4089a53f9416881fd"
+  },
+  "filename": "d2d546304734.jpg",
+  "description": "On Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:59:02.877Z",
+  "longitude": {
+    "$numberDecimal": "121.0366554"
+  },
+  "latitude": {
+    "$numberDecimal": "14.56707"
+  },
+  "compass": {
+    "$numberDecimal": "260.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e04316089a53f9416881ff"
+  },
+  "filename": "dad05ae1c39b9.jpg",
+  "description": "On Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-05T23:59:56.684Z",
+  "longitude": {
+    "$numberDecimal": "121.0369477"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5671966"
+  },
+  "compass": {
+    "$numberDecimal": "326.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e04396089a53f941688201"
+  },
+  "filename": "87defd1fb7cbf.jpg",
+  "description": "Near Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T00:01:56.995Z",
+  "longitude": {
+    "$numberDecimal": "121.0378026"
+  },
+  "latitude": {
+    "$numberDecimal": "14.567045"
+  },
+  "compass": {
+    "$numberDecimal": "22.69999999999999"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e043d1089a53f941688203"
+  },
+  "filename": "201aa8fa28434.jpg",
+  "description": "On Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T00:03:01.438Z",
+  "longitude": {
+    "$numberDecimal": "121.0368811"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5671345"
+  },
+  "compass": {
+    "$numberDecimal": "78.39999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e043fa089a53f941688205"
+  },
+  "filename": "f09d14aeb2254.jpg",
+  "description": "On Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T00:03:52.538Z",
+  "longitude": {
+    "$numberDecimal": "121.0369819"
+  },
+  "latitude": {
+    "$numberDecimal": "14.567246"
+  },
+  "compass": {
+    "$numberDecimal": "96.19999999999999"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e04417089a53f941688207"
+  },
+  "filename": "64c20f688bb68.jpg",
+  "description": "On Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T00:04:23.913Z",
+  "longitude": {
+    "$numberDecimal": "121.0371329"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5671961"
+  },
+  "compass": {
+    "$numberDecimal": "71.09999999999997"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e04435089a53f941688209"
+  },
+  "filename": "7fc065d73e684.jpg",
+  "description": "On Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T00:04:52.707Z",
+  "longitude": {
+    "$numberDecimal": "121.0373651"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5672902"
+  },
+  "compass": {
+    "$numberDecimal": "57.30000000000001"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e04494089a53f94168820b"
+  },
+  "filename": "4a21cca24757.jpg",
+  "description": "Near Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T00:06:07.237Z",
+  "longitude": {
+    "$numberDecimal": "121.0375684"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5672347"
+  },
+  "compass": {
+    "$numberDecimal": "353"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e044c8089a53f94168820d"
+  },
+  "filename": "0316306def07f.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T00:07:20.584Z",
+  "longitude": {
+    "$numberDecimal": "121.0375311"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5671516"
+  },
+  "compass": {
+    "$numberDecimal": "353.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e044f1089a53f94168820f"
+  },
+  "filename": "c96c6300b776a.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T00:07:54.235Z",
+  "longitude": {
+    "$numberDecimal": "121.0376137"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5672422"
+  },
+  "compass": {
+    "$numberDecimal": "350.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e04532089a53f941688211"
+  },
+  "filename": "df0eda2ae9d89.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T00:09:09.744Z",
+  "longitude": {
+    "$numberDecimal": "121.0386708"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5679776"
+  },
+  "compass": {
+    "$numberDecimal": "343.4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e04555089a53f941688213"
+  },
+  "filename": "b44c75445d8ed.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T00:09:44.835Z",
+  "longitude": {
+    "$numberDecimal": "121.0377274"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5672987"
+  },
+  "compass": {
+    "$numberDecimal": "353.2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0457a089a53f941688215"
+  },
+  "filename": "830107d0873a6.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T00:10:21.891Z",
+  "longitude": {
+    "$numberDecimal": "121.0393168"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5673535"
+  },
+  "compass": {
+    "$numberDecimal": "340.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0459b089a53f941688217"
+  },
+  "filename": "bba7d719d57c1.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T00:10:53.697Z",
+  "longitude": {
+    "$numberDecimal": "121.0376456"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5672907"
+  },
+  "compass": {
+    "$numberDecimal": "26.69999999999999"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e045b8089a53f941688219"
+  },
+  "filename": "146378598b69d.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T00:11:25.119Z",
+  "longitude": {
+    "$numberDecimal": "121.0377366"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5673264"
+  },
+  "compass": {
+    "$numberDecimal": "344.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e045d1089a53f94168821b"
+  },
+  "filename": "ed84f48480184.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T00:11:48.652Z",
+  "longitude": {
+    "$numberDecimal": "121.0378557"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5673726"
+  },
+  "compass": {
+    "$numberDecimal": "340.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e04601089a53f94168821d"
+  },
+  "filename": "6e58132f7fc67.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T00:12:37.186Z",
+  "longitude": {
+    "$numberDecimal": "121.0379438"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5673667"
+  },
+  "compass": {
+    "$numberDecimal": "13.399999999999977"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e04753089a53f94168821f"
+  },
+  "filename": "d5c31cac3f75e.jpg",
+  "description": "Near Guadalupe station",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T00:18:11.231Z",
+  "longitude": {
+    "$numberDecimal": "121.0446351"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5681007"
+  },
+  "compass": {
+    "$numberDecimal": "12.699999999999989"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e04779089a53f941688221"
+  },
+  "filename": "dbc936c0a4c97.jpg",
+  "description": "Near Guadalupe station",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T00:18:45.107Z",
+  "longitude": {
+    "$numberDecimal": "121.0456618"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5690853"
+  },
+  "compass": {
+    "$numberDecimal": "18.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e047df089a53f941688224"
+  },
+  "filename": "b4be68c0f7b69.jpg",
+  "description": "Near Guadalupe station",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T00:20:32.698Z",
+  "longitude": {
+    "$numberDecimal": "121.0456777"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5689263"
+  },
+  "compass": {
+    "$numberDecimal": "7.2999999999999545"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e04847089a53f941688226"
+  },
+  "filename": "d34dd6df32b9c.jpg",
+  "description": "Near Guadalupe station",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T00:22:15.666Z",
+  "longitude": {
+    "$numberDecimal": "121.0461862"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5681211"
+  },
+  "compass": {
+    "$numberDecimal": "12.699999999999989"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e08c7f089a53f94168822a"
+  },
+  "filename": "758eb9217d92b.jpg",
+  "description": "Riverbank",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:13:02.086Z",
+  "longitude": {
+    "$numberDecimal": "120.9723219"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5965945"
+  },
+  "compass": {
+    "$numberDecimal": "193.89999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e08ca5089a53f94168822c"
+  },
+  "filename": "bf92aa59d2ee6.jpg",
+  "description": "Riverbank",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:14:02.554Z",
+  "longitude": {
+    "$numberDecimal": "120.9723888"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5962896"
+  },
+  "compass": {
+    "$numberDecimal": "186.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e08cd0089a53f94168822e"
+  },
+  "filename": "5a4c0b20a0faf.jpg",
+  "description": "Riverbank",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:14:40.495Z",
+  "longitude": {
+    "$numberDecimal": "120.9727094"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5962804"
+  },
+  "compass": {
+    "$numberDecimal": "187"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e08d7c089a53f941688230"
+  },
+  "filename": "a208f88fac561.jpg",
+  "description": "Riverbank",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:17:21.895Z",
+  "longitude": {
+    "$numberDecimal": "120.9737134"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5961583"
+  },
+  "compass": {
+    "$numberDecimal": "176.29999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e08d9c089a53f941688232"
+  },
+  "filename": "2008afb098402.jpg",
+  "description": "Riverbank",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:18:15.016Z",
+  "longitude": {
+    "$numberDecimal": "120.9733895"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5962354"
+  },
+  "compass": {
+    "$numberDecimal": "187.29999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e08dd7089a53f941688234"
+  },
+  "filename": "0809051412264.jpg",
+  "description": "Riverbank Binondo-Intramuros Bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:18:59.342Z",
+  "longitude": {
+    "$numberDecimal": "120.974545"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5963265"
+  },
+  "compass": {
+    "$numberDecimal": "166.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e08e40089a53f941688236"
+  },
+  "filename": "7bba84a77674.jpg",
+  "description": "Riverbank - Binondo-Intramuros Bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:20:33.018Z",
+  "longitude": {
+    "$numberDecimal": "120.9753132"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5945891"
+  },
+  "compass": {
+    "$numberDecimal": "164.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e08e75089a53f941688238"
+  },
+  "filename": "18319cd704494.jpg",
+  "description": "Riverbank - Binondo-Intramuros Bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:21:38.522Z",
+  "longitude": {
+    "$numberDecimal": "120.9752413"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5946164"
+  },
+  "compass": {
+    "$numberDecimal": "172.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e08eaa089a53f94168823a"
+  },
+  "filename": "5b67a871d9038.jpg",
+  "description": "Riverbank - Binondo-Intramuros Bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:22:32.633Z",
+  "longitude": {
+    "$numberDecimal": "120.9752934"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5959513"
+  },
+  "compass": {
+    "$numberDecimal": "170.2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e08ef8089a53f94168823c"
+  },
+  "filename": "98b983b7df2d5.jpg",
+  "description": "Riverbank - Binondo-Intramuros Bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:23:34.099Z",
+  "longitude": {
+    "$numberDecimal": "120.975213"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5958851"
+  },
+  "compass": {
+    "$numberDecimal": "166.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e08f54089a53f94168823e"
+  },
+  "filename": "a9fd6ed44649b.jpg",
+  "description": "Riverbank - Binondo-Intramuros Bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:25:13.185Z",
+  "longitude": {
+    "$numberDecimal": "120.9756846"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5958"
+  },
+  "compass": {
+    "$numberDecimal": "166.39999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e08f80089a53f941688240"
+  },
+  "filename": "619a90a1bcca9.jpg",
+  "description": "Riverbank - Binondo-Intramuros Bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:25:54.473Z",
+  "longitude": {
+    "$numberDecimal": "120.9754037"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5957334"
+  },
+  "compass": {
+    "$numberDecimal": "165.29999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09004089a53f941688243"
+  },
+  "filename": "dabdf0aec1f7a.jpg",
+  "description": "Riverbank - Jones Bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:28:10.260Z",
+  "longitude": {
+    "$numberDecimal": "120.9764316"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5960275"
+  },
+  "compass": {
+    "$numberDecimal": "124.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09055089a53f941688245"
+  },
+  "filename": "a3183a44a6da6.jpg",
+  "description": "Riverbank - Jones Bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:29:28.155Z",
+  "longitude": {
+    "$numberDecimal": "120.9769177"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5959915"
+  },
+  "compass": {
+    "$numberDecimal": "187.29999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0908e089a53f941688247"
+  },
+  "filename": "adf3e3a8ac2b7.jpg",
+  "description": "Bridge View - Jones Bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:30:36.504Z",
+  "longitude": {
+    "$numberDecimal": "120.9764179"
+  },
+  "latitude": {
+    "$numberDecimal": "14.596052"
+  },
+  "compass": {
+    "$numberDecimal": "259.4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0918f089a53f941688249"
+  },
+  "filename": "7ac976e84550b.jpg",
+  "description": "Bridge View - Jones Bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:34:55.603Z",
+  "longitude": {
+    "$numberDecimal": "120.9768341"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5965889"
+  },
+  "compass": {
+    "$numberDecimal": "69.39999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e091e0089a53f94168824b"
+  },
+  "filename": "4db15d351747e.jpg",
+  "description": "Riverbank - Jones Bridge",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:36:24.073Z",
+  "longitude": {
+    "$numberDecimal": "120.9768661"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5961964"
+  },
+  "compass": {
+    "$numberDecimal": "141.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09241089a53f94168824d"
+  },
+  "filename": "4f82ccf1f5f9.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:37:38.539Z",
+  "longitude": {
+    "$numberDecimal": "120.9778837"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5968195"
+  },
+  "compass": {
+    "$numberDecimal": "142.89999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0926b089a53f94168824f"
+  },
+  "filename": "c9f4e5978eeab.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:38:31.153Z",
+  "longitude": {
+    "$numberDecimal": "120.9772215"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5959851"
+  },
+  "compass": {
+    "$numberDecimal": "142.79999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0928c089a53f941688251"
+  },
+  "filename": "e3bf24cb929d4.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:39:03.289Z",
+  "longitude": {
+    "$numberDecimal": "120.9777899"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5963478"
+  },
+  "compass": {
+    "$numberDecimal": "143.89999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e092ab089a53f941688253"
+  },
+  "filename": "9bbf5b63e91e4.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:39:32.790Z",
+  "longitude": {
+    "$numberDecimal": "120.9778473"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5965309"
+  },
+  "compass": {
+    "$numberDecimal": "143.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e092db089a53f941688255"
+  },
+  "filename": "1cfecac9fd128.jpg",
+  "description": "Riverbank - Yuchengco",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:40:24.775Z",
+  "longitude": {
+    "$numberDecimal": "120.9780971"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5967319"
+  },
+  "compass": {
+    "$numberDecimal": "151.79999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0932f089a53f941688258"
+  },
+  "filename": "eda08da8da775.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:41:56.394Z",
+  "longitude": {
+    "$numberDecimal": "120.9780514"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5965034"
+  },
+  "compass": {
+    "$numberDecimal": "142.29999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0938c089a53f94168825a"
+  },
+  "filename": "79111ce97dccb.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:43:25.688Z",
+  "longitude": {
+    "$numberDecimal": "120.9781159"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5968983"
+  },
+  "compass": {
+    "$numberDecimal": "146.2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e093fe089a53f94168825e"
+  },
+  "filename": "aee867213e3ac.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:45:15.731Z",
+  "longitude": {
+    "$numberDecimal": "120.9782198"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5969389"
+  },
+  "compass": {
+    "$numberDecimal": "144.79999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e094a8089a53f941688260"
+  },
+  "filename": "094311030f91b.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:48:14.599Z",
+  "longitude": {
+    "$numberDecimal": "120.9782219"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5968941"
+  },
+  "compass": {
+    "$numberDecimal": "145.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e094bd089a53f941688262"
+  },
+  "filename": "2eca6f12c295c.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:48:35.769Z",
+  "longitude": {
+    "$numberDecimal": "120.9782499"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5968759"
+  },
+  "compass": {
+    "$numberDecimal": "153"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e094d2089a53f941688264"
+  },
+  "filename": "fdded5b4af70d.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:48:58.418Z",
+  "longitude": {
+    "$numberDecimal": "120.9781544"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5968062"
+  },
+  "compass": {
+    "$numberDecimal": "145.2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e094ec089a53f941688266"
+  },
+  "filename": "29377ff44759c.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:49:20.512Z",
+  "longitude": {
+    "$numberDecimal": "120.9782354"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5968575"
+  },
+  "compass": {
+    "$numberDecimal": "149.89999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09507089a53f941688268"
+  },
+  "filename": "ba9b34dce5e9c.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:49:46.873Z",
+  "longitude": {
+    "$numberDecimal": "120.9781728"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5968592"
+  },
+  "compass": {
+    "$numberDecimal": "155.2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0951d089a53f94168826a"
+  },
+  "filename": "b408084f48153.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:50:08.904Z",
+  "longitude": {
+    "$numberDecimal": "120.9782276"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5969555"
+  },
+  "compass": {
+    "$numberDecimal": "154.89999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09544089a53f94168826d"
+  },
+  "filename": "a948b94fb7057.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:50:50.849Z",
+  "longitude": {
+    "$numberDecimal": "120.9783471"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5968457"
+  },
+  "compass": {
+    "$numberDecimal": "147.29999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0955a089a53f94168826f"
+  },
+  "filename": "0179c23872fb6.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:51:14.104Z",
+  "longitude": {
+    "$numberDecimal": "120.9783433"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5970148"
+  },
+  "compass": {
+    "$numberDecimal": "147.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09575089a53f941688271"
+  },
+  "filename": "58b5b3e109391.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:51:38.776Z",
+  "longitude": {
+    "$numberDecimal": "120.9783978"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5969449"
+  },
+  "compass": {
+    "$numberDecimal": "149.29999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09591089a53f941688273"
+  },
+  "filename": "42250037d2ba3.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:52:06.036Z",
+  "longitude": {
+    "$numberDecimal": "120.9784466"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5969264"
+  },
+  "compass": {
+    "$numberDecimal": "149.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e095b8089a53f941688275"
+  },
+  "filename": "570c3c9b39042.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:52:37.450Z",
+  "longitude": {
+    "$numberDecimal": "120.9784608"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5968963"
+  },
+  "compass": {
+    "$numberDecimal": "150.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e095d6089a53f941688277"
+  },
+  "filename": "f9f8a5d9a327e.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:53:16.174Z",
+  "longitude": {
+    "$numberDecimal": "120.9784387"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5970514"
+  },
+  "compass": {
+    "$numberDecimal": "150.79999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e095f0089a53f941688279"
+  },
+  "filename": "d0dc4afc5109f.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:53:41.840Z",
+  "longitude": {
+    "$numberDecimal": "120.9784646"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5969708"
+  },
+  "compass": {
+    "$numberDecimal": "148.2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09617089a53f94168827b"
+  },
+  "filename": "b743453ccf7d7.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:54:10.963Z",
+  "longitude": {
+    "$numberDecimal": "120.9784895"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5969401"
+  },
+  "compass": {
+    "$numberDecimal": "138.39999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09648089a53f94168827d"
+  },
+  "filename": "5dffe674c1b4a.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:55:05.972Z",
+  "longitude": {
+    "$numberDecimal": "120.9786152"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5969743"
+  },
+  "compass": {
+    "$numberDecimal": "145.29999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09679089a53f94168827f"
+  },
+  "filename": "da888e6068b0c.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:55:54.847Z",
+  "longitude": {
+    "$numberDecimal": "120.9787289"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5970904"
+  },
+  "compass": {
+    "$numberDecimal": "155.29999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e096ae089a53f941688281"
+  },
+  "filename": "85d25e054aeb3.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:56:51.370Z",
+  "longitude": {
+    "$numberDecimal": "120.9788383"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5971204"
+  },
+  "compass": {
+    "$numberDecimal": "157.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e096c5089a53f941688283"
+  },
+  "filename": "906ea39e68b8e.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:57:16.147Z",
+  "longitude": {
+    "$numberDecimal": "120.9786823"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5972657"
+  },
+  "compass": {
+    "$numberDecimal": "155.89999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e096e9089a53f941688285"
+  },
+  "filename": "4178d2a9884b9.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:57:50.575Z",
+  "longitude": {
+    "$numberDecimal": "120.9788286"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5971609"
+  },
+  "compass": {
+    "$numberDecimal": "154"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09703089a53f941688287"
+  },
+  "filename": "6450516a8c918.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:58:16.727Z",
+  "longitude": {
+    "$numberDecimal": "120.9788716"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5971765"
+  },
+  "compass": {
+    "$numberDecimal": "158.29999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0972b089a53f941688289"
+  },
+  "filename": "d8db25fbe7696.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:58:48.462Z",
+  "longitude": {
+    "$numberDecimal": "120.9790063"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5972389"
+  },
+  "compass": {
+    "$numberDecimal": "147.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09756089a53f94168828b"
+  },
+  "filename": "f2998a9c2540f.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T05:59:40.008Z",
+  "longitude": {
+    "$numberDecimal": "120.9790132"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5972683"
+  },
+  "compass": {
+    "$numberDecimal": "151.79999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09779089a53f94168828d"
+  },
+  "filename": "9c1b816cb2762.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T06:00:14.439Z",
+  "longitude": {
+    "$numberDecimal": "120.9792103"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5973628"
+  },
+  "compass": {
+    "$numberDecimal": "156.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e097a9089a53f94168828f"
+  },
+  "filename": "56ce7270989dc.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T06:01:01.239Z",
+  "longitude": {
+    "$numberDecimal": "120.9794522"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5972796"
+  },
+  "compass": {
+    "$numberDecimal": "147.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e097d0089a53f941688291"
+  },
+  "filename": "4e73f5094cc6d.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T06:01:39.357Z",
+  "longitude": {
+    "$numberDecimal": "120.9793482"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5973658"
+  },
+  "compass": {
+    "$numberDecimal": "147.2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e097f6089a53f941688295"
+  },
+  "filename": "85cc953ae23c1.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T06:02:16.552Z",
+  "longitude": {
+    "$numberDecimal": "120.9793533"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5973984"
+  },
+  "compass": {
+    "$numberDecimal": "141"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09820089a53f941688297"
+  },
+  "filename": "67615959bcb92.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T06:03:02.637Z",
+  "longitude": {
+    "$numberDecimal": "120.979482"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5974312"
+  },
+  "compass": {
+    "$numberDecimal": "148.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09847089a53f94168829b"
+  },
+  "filename": "53013270dd7de.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T06:03:43.617Z",
+  "longitude": {
+    "$numberDecimal": "120.9796474"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5975468"
+  },
+  "compass": {
+    "$numberDecimal": "171.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0985b089a53f94168829d"
+  },
+  "filename": "40bf2f97f1ca6.jpg",
+  "description": "Riverbank - Yuchenco Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T06:04:02.867Z",
+  "longitude": {
+    "$numberDecimal": "120.9795552"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5976287"
+  },
+  "compass": {
+    "$numberDecimal": "151.79999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0992c089a53f94168829f"
+  },
+  "filename": "1d7f601d82e86.jpg",
+  "description": "Bridge View",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T06:07:17.056Z",
+  "longitude": {
+    "$numberDecimal": "120.9797313"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5974644"
+  },
+  "compass": {
+    "$numberDecimal": "269.4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09957089a53f9416882a1"
+  },
+  "filename": "cbb8872cf1cc8.jpg",
+  "description": "Bridge View",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T06:08:13.243Z",
+  "longitude": {
+    "$numberDecimal": "120.9803121"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5970997"
+  },
+  "compass": {
+    "$numberDecimal": "273.3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09b65089a53f9416882a3"
+  },
+  "filename": "a57096e76e35.jpg",
+  "description": "Bridge View",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T06:16:42.324Z",
+  "longitude": {
+    "$numberDecimal": "120.9822442"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5957479"
+  },
+  "compass": {
+    "$numberDecimal": "293"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09e48089a53f9416882a5"
+  },
+  "filename": "faa92928c21f5.jpg",
+  "description": "Riverbank - Arroceros Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T06:28:57.338Z",
+  "longitude": {
+    "$numberDecimal": "120.9820026"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5949144"
+  },
+  "compass": {
+    "$numberDecimal": "45.19999999999999"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09e71089a53f9416882a7"
+  },
+  "filename": "eeeca7626a6ef.jpg",
+  "description": "Riverbank - Arroceros Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T06:29:37.445Z",
+  "longitude": {
+    "$numberDecimal": "120.9818136"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5949146"
+  },
+  "compass": {
+    "$numberDecimal": "68.39999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09e8c089a53f9416882a9"
+  },
+  "filename": "597efc9a76f19.jpg",
+  "description": "Riverbank - Arroceros Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T06:30:17.417Z",
+  "longitude": {
+    "$numberDecimal": "120.9827612"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5951162"
+  },
+  "compass": {
+    "$numberDecimal": "57.19999999999999"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09eab089a53f9416882ab"
+  },
+  "filename": "5ef359d2c2b3e.jpg",
+  "description": "Riverbank - Arroceros Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T06:30:44.955Z",
+  "longitude": {
+    "$numberDecimal": "120.9821802"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5946933"
+  },
+  "compass": {
+    "$numberDecimal": "67"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09ee4089a53f9416882ad"
+  },
+  "filename": "73244ae953d8e.jpg",
+  "description": "Riverbank - Arroceros Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T06:31:37.673Z",
+  "longitude": {
+    "$numberDecimal": "120.9824014"
+  },
+  "latitude": {
+    "$numberDecimal": "14.594535"
+  },
+  "compass": {
+    "$numberDecimal": "58.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09f01089a53f9416882af"
+  },
+  "filename": "3cf84a225e9fd.jpg",
+  "description": "Riverbank - Arroceros",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T06:32:15.406Z",
+  "longitude": {
+    "$numberDecimal": "120.9826042"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5947248"
+  },
+  "compass": {
+    "$numberDecimal": "59.19999999999999"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09f2d089a53f9416882b1"
+  },
+  "filename": "f3f787785740a.jpg",
+  "description": "Riverbank - Arroceros Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T06:32:59.827Z",
+  "longitude": {
+    "$numberDecimal": "120.9824704"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5942699"
+  },
+  "compass": {
+    "$numberDecimal": "62.19999999999999"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09f52089a53f9416882b3"
+  },
+  "filename": "324a4dfa8bce3.jpg",
+  "description": "Riverbank - Arocerros",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T06:33:36.591Z",
+  "longitude": {
+    "$numberDecimal": "120.9824798"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5947636"
+  },
+  "compass": {
+    "$numberDecimal": "66.19999999999999"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09f6e089a53f9416882b5"
+  },
+  "filename": "81d0b080da35a.jpg",
+  "description": "Riverbank - Arroceros",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T06:34:05.478Z",
+  "longitude": {
+    "$numberDecimal": "120.9828401"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5946871"
+  },
+  "compass": {
+    "$numberDecimal": "71.80000000000001"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e09f91089a53f9416882b7"
+  },
+  "filename": "fb2aaa91601c.jpg",
+  "description": "Riverbank - Arroceros Park",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T06:34:32.160Z",
+  "longitude": {
+    "$numberDecimal": "120.9827101"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5943066"
+  },
+  "compass": {
+    "$numberDecimal": "59.099999999999966"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0a517089a53f9416882c0"
+  },
+  "filename": "66fd99b75f6c7.jpg",
+  "description": "Bridge View - Ayala Brri",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T06:58:12.958Z",
+  "longitude": {
+    "$numberDecimal": "120.986136"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5908675"
+  },
+  "compass": {
+    "$numberDecimal": "289.4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0a52e089a53f9416882c2"
+  },
+  "filename": "d81da7fed03a.jpg",
+  "description": "Bridge View - Ayala Brri",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T06:58:42.689Z",
+  "longitude": {
+    "$numberDecimal": "120.9862065"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5911887"
+  },
+  "compass": {
+    "$numberDecimal": "264"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0a65b089a53f9416882c4"
+  },
+  "filename": "2f447d2348385.jpg",
+  "description": "Bridge View - Ayala Brri",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T07:03:48.079Z",
+  "longitude": {
+    "$numberDecimal": "120.9868057"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5915296"
+  },
+  "compass": {
+    "$numberDecimal": "87.19999999999999"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0a6d8089a53f9416882c7"
+  },
+  "filename": "3cde210a9022e.jpg",
+  "description": "Bridge View - Ayala Brri",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T07:05:54.392Z",
+  "longitude": {
+    "$numberDecimal": "120.9860165"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5907121"
+  },
+  "compass": {
+    "$numberDecimal": "166.39999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0bc54089a53f9416882cc"
+  },
+  "filename": "786b8c0560e76.jpg",
+  "description": "Near Guadalupe station",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T08:37:10.581Z",
+  "longitude": {
+    "$numberDecimal": "121.0461768"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5681295"
+  },
+  "compass": {
+    "$numberDecimal": "71.19999999999999"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0bcbf089a53f9416882ce"
+  },
+  "filename": "0b7768ce40e3a.jpg",
+  "description": "Near Guadalupe station",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T08:39:00.693Z",
+  "longitude": {
+    "$numberDecimal": "121.0460636"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5679888"
+  },
+  "compass": {
+    "$numberDecimal": "26.099999999999966"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0bce5089a53f9416882d0"
+  },
+  "filename": "9d6f23dce7fd3.jpg",
+  "description": "Near Guadalupe station",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T08:39:51.198Z",
+  "longitude": {
+    "$numberDecimal": "121.0452832"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5691812"
+  },
+  "compass": {
+    "$numberDecimal": "22.099999999999966"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0bd16089a53f9416882d2"
+  },
+  "filename": "2dd7e5779fca9.jpg",
+  "description": "Near Guadalupe station",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T08:40:44.147Z",
+  "longitude": {
+    "$numberDecimal": "121.0445861"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5681678"
+  },
+  "compass": {
+    "$numberDecimal": "10.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0beac089a53f9416882d4"
+  },
+  "filename": "fb3dc6970ab0d.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T08:47:05.586Z",
+  "longitude": {
+    "$numberDecimal": "121.0400075"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5673061"
+  },
+  "compass": {
+    "$numberDecimal": "349.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0bedd089a53f9416882d6"
+  },
+  "filename": "177ba78323de5.jpg",
+  "description": "JP Rizal street",
+  "weather": "Cloudy",
+  "datetime": "2023-02-06T08:48:13.762Z",
+  "longitude": {
+    "$numberDecimal": "121.0395097"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5676422"
+  },
+  "compass": {
+    "$numberDecimal": "74.09999999999997"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0befb089a53f9416882d8"
+  },
+  "filename": "f303183e8a1e1.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T08:48:44.782Z",
+  "longitude": {
+    "$numberDecimal": "121.0396321"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5676339"
+  },
+  "compass": {
+    "$numberDecimal": "73.80000000000001"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0bf35089a53f9416882da"
+  },
+  "filename": "0af961dd0358c.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T08:49:26.009Z",
+  "longitude": {
+    "$numberDecimal": "121.0387649"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674346"
+  },
+  "compass": {
+    "$numberDecimal": "355.4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0bf5c089a53f9416882dc"
+  },
+  "filename": "5abf8d468b10b.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T08:50:11.019Z",
+  "longitude": {
+    "$numberDecimal": "121.0387301"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5673918"
+  },
+  "compass": {
+    "$numberDecimal": "357.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0bf8b089a53f9416882de"
+  },
+  "filename": "06ea3aad59fc.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T08:50:47.982Z",
+  "longitude": {
+    "$numberDecimal": "121.0389925"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5673233"
+  },
+  "compass": {
+    "$numberDecimal": "358.8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0bfb3089a53f9416882e0"
+  },
+  "filename": "2e9358e58d824.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T08:51:42.941Z",
+  "longitude": {
+    "$numberDecimal": "121.0386572"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5672571"
+  },
+  "compass": {
+    "$numberDecimal": "344.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0bfdb089a53f9416882e2"
+  },
+  "filename": "f3ac3db7aa979.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T08:52:26.520Z",
+  "longitude": {
+    "$numberDecimal": "121.0384433"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674118"
+  },
+  "compass": {
+    "$numberDecimal": "353.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c043089a53f9416882e4"
+  },
+  "filename": "a1793af88c621.jpg",
+  "description": "Near Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T08:53:25.514Z",
+  "longitude": {
+    "$numberDecimal": "121.038538"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5672851"
+  },
+  "compass": {
+    "$numberDecimal": "7.7999999999999545"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c072089a53f9416882e6"
+  },
+  "filename": "268ff0e8b5bdc.jpg",
+  "description": "Near Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T08:54:55.944Z",
+  "longitude": {
+    "$numberDecimal": "121.0373871"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5669436"
+  },
+  "compass": {
+    "$numberDecimal": "336.4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c0c7089a53f9416882e8"
+  },
+  "filename": "d58720a4e3528.jpg",
+  "description": "Near Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T08:56:06.089Z",
+  "longitude": {
+    "$numberDecimal": "121.0383788"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5672369"
+  },
+  "compass": {
+    "$numberDecimal": "343.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c187089a53f9416882ea"
+  },
+  "filename": "9f41da61f2502.jpg",
+  "description": "Near Estrella-Pantaleon Bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T08:57:26.072Z",
+  "longitude": {
+    "$numberDecimal": "121.0385149"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5672244"
+  },
+  "compass": {
+    "$numberDecimal": "340.3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c1d9089a53f9416882ec"
+  },
+  "filename": "a0df288b420ac.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:00:50.077Z",
+  "longitude": {
+    "$numberDecimal": "121.035691"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5667376"
+  },
+  "compass": {
+    "$numberDecimal": "17.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c228089a53f9416882ee"
+  },
+  "filename": "e4e4d6e20725.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:01:53.533Z",
+  "longitude": {
+    "$numberDecimal": "121.0356097"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5671948"
+  },
+  "compass": {
+    "$numberDecimal": "7.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c25d089a53f9416882f0"
+  },
+  "filename": "653dd369c2969.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:03:03.771Z",
+  "longitude": {
+    "$numberDecimal": "121.0346567"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5668491"
+  },
+  "compass": {
+    "$numberDecimal": "27.799999999999955"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c30e089a53f9416882f2"
+  },
+  "filename": "28d2b95217f85.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:06:03.402Z",
+  "longitude": {
+    "$numberDecimal": "121.0334971"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5674297"
+  },
+  "compass": {
+    "$numberDecimal": "23.19999999999999"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c330089a53f9416882f4"
+  },
+  "filename": "c1f8dd182f23b.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:06:43.628Z",
+  "longitude": {
+    "$numberDecimal": "121.0336301"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5673934"
+  },
+  "compass": {
+    "$numberDecimal": "51.89999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c38a089a53f9416882f6"
+  },
+  "filename": "5ff75d6dba9b.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:07:50.412Z",
+  "longitude": {
+    "$numberDecimal": "121.0366158"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5666014"
+  },
+  "compass": {
+    "$numberDecimal": "65.30000000000001"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c3d9089a53f9416882f8"
+  },
+  "filename": "65a661f7535d2.jpg",
+  "description": "JP Rizal street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:08:42.287Z",
+  "longitude": {
+    "$numberDecimal": "121.0355649"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5666612"
+  },
+  "compass": {
+    "$numberDecimal": "53.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c4fd089a53f9416882fb"
+  },
+  "filename": "2db53d18bf47e.jpg",
+  "description": "On Makati-Mandaluyong bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:13:59.137Z",
+  "longitude": {
+    "$numberDecimal": "121.0317407"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5692308"
+  },
+  "compass": {
+    "$numberDecimal": "149.89999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c51c089a53f9416882fd"
+  },
+  "filename": "e980b3f76f945.jpg",
+  "description": "On Makati-Mandaluyong bridge",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:14:49.673Z",
+  "longitude": {
+    "$numberDecimal": "121.0330338"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5679941"
+  },
+  "compass": {
+    "$numberDecimal": "117.29999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c574089a53f9416882ff"
+  },
+  "filename": "990ce0ba7218e.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:16:20.692Z",
+  "longitude": {
+    "$numberDecimal": "121.0322457"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5695852"
+  },
+  "compass": {
+    "$numberDecimal": "215.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c5a0089a53f941688301"
+  },
+  "filename": "6d54ba3bb1a22.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:17:07.166Z",
+  "longitude": {
+    "$numberDecimal": "121.0323655"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5681469"
+  },
+  "compass": {
+    "$numberDecimal": "218.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c5d0089a53f941688303"
+  },
+  "filename": "6d8e8733ad4f.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:17:58.452Z",
+  "longitude": {
+    "$numberDecimal": "121.0313824"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5695519"
+  },
+  "compass": {
+    "$numberDecimal": "225.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c615089a53f941688305"
+  },
+  "filename": "6ddaa89285f2d.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:18:29.299Z",
+  "longitude": {
+    "$numberDecimal": "121.0315366"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5701921"
+  },
+  "compass": {
+    "$numberDecimal": "226.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c62d089a53f941688307"
+  },
+  "filename": "59ee74fa4415.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:19:27.027Z",
+  "longitude": {
+    "$numberDecimal": "121.0320998"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5687736"
+  },
+  "compass": {
+    "$numberDecimal": "236.3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c64e089a53f941688309"
+  },
+  "filename": "27b3e2270e488.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:20:01.957Z",
+  "longitude": {
+    "$numberDecimal": "121.0311804"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5705455"
+  },
+  "compass": {
+    "$numberDecimal": "215.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c66a089a53f94168830b"
+  },
+  "filename": "8dbc05e7c3583.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:20:30.903Z",
+  "longitude": {
+    "$numberDecimal": "121.0317147"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5696752"
+  },
+  "compass": {
+    "$numberDecimal": "229.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c68a089a53f94168830d"
+  },
+  "filename": "261143183de3f.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:21:01.974Z",
+  "longitude": {
+    "$numberDecimal": "121.0309096"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5708865"
+  },
+  "compass": {
+    "$numberDecimal": "219.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c6d3089a53f94168830f"
+  },
+  "filename": "e4c3ee9eddfb7.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:21:42.145Z",
+  "longitude": {
+    "$numberDecimal": "121.0317348"
+  },
+  "latitude": {
+    "$numberDecimal": "14.569649"
+  },
+  "compass": {
+    "$numberDecimal": "221.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c6fd089a53f941688311"
+  },
+  "filename": "b78148eaa7087.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:22:52.575Z",
+  "longitude": {
+    "$numberDecimal": "121.0315842"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5698588"
+  },
+  "compass": {
+    "$numberDecimal": "214.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c748089a53f941688313"
+  },
+  "filename": "fb326150e1dd5.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:24:01.413Z",
+  "longitude": {
+    "$numberDecimal": "121.0296926"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5717476"
+  },
+  "compass": {
+    "$numberDecimal": "220.4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c77c089a53f941688316"
+  },
+  "filename": "e772f4ce79d0d.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:24:57.730Z",
+  "longitude": {
+    "$numberDecimal": "121.0294282"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5722053"
+  },
+  "compass": {
+    "$numberDecimal": "252.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c79e089a53f941688318"
+  },
+  "filename": "8aaa914f00b8b.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:25:38.328Z",
+  "longitude": {
+    "$numberDecimal": "121.0293635"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5722684"
+  },
+  "compass": {
+    "$numberDecimal": "226"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c815089a53f94168831b"
+  },
+  "filename": "ba2d801609d4c.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:27:10.205Z",
+  "longitude": {
+    "$numberDecimal": "121.0285106"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5729829"
+  },
+  "compass": {
+    "$numberDecimal": "221.5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c837089a53f94168831d"
+  },
+  "filename": "168c4eacf84f9.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:28:03.151Z",
+  "longitude": {
+    "$numberDecimal": "121.0283252"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5731011"
+  },
+  "compass": {
+    "$numberDecimal": "221.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c89f089a53f94168831f"
+  },
+  "filename": "6a1e80d693534.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:29:47.123Z",
+  "longitude": {
+    "$numberDecimal": "121.0276854"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5734801"
+  },
+  "compass": {
+    "$numberDecimal": "214.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c8c5089a53f941688322"
+  },
+  "filename": "134e9a00bb43b.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:30:31.691Z",
+  "longitude": {
+    "$numberDecimal": "121.0273801"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5739287"
+  },
+  "compass": {
+    "$numberDecimal": "214.79999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c92d089a53f941688324"
+  },
+  "filename": "f04eb02d464f7.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:31:18.172Z",
+  "longitude": {
+    "$numberDecimal": "121.0277051"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5733339"
+  },
+  "compass": {
+    "$numberDecimal": "220.4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c945089a53f941688326"
+  },
+  "filename": "8f9cff14e2665.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:32:42.191Z",
+  "longitude": {
+    "$numberDecimal": "121.0282043"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5730684"
+  },
+  "compass": {
+    "$numberDecimal": "222.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0c9b1089a53f941688329"
+  },
+  "filename": "6634240190da9.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:34:25.677Z",
+  "longitude": {
+    "$numberDecimal": "121.0298677"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5723903"
+  },
+  "compass": {
+    "$numberDecimal": "210.79999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0ca79089a53f94168832b"
+  },
+  "filename": "a281f15e3f2cd.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:37:45.265Z",
+  "longitude": {
+    "$numberDecimal": "121.031163"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5703186"
+  },
+  "compass": {
+    "$numberDecimal": "223.79999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0ca9f089a53f94168832d"
+  },
+  "filename": "6de37952ad9cf.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:38:27.519Z",
+  "longitude": {
+    "$numberDecimal": "121.03141"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5703752"
+  },
+  "compass": {
+    "$numberDecimal": "224.9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0cabe089a53f94168832f"
+  },
+  "filename": "5168f13c143d3.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:38:56.463Z",
+  "longitude": {
+    "$numberDecimal": "121.0316494"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5698671"
+  },
+  "compass": {
+    "$numberDecimal": "226.6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0cd07089a53f941688332"
+  },
+  "filename": "fa89f58df8bb4.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:48:40.281Z",
+  "longitude": {
+    "$numberDecimal": "121.0323241"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5694917"
+  },
+  "compass": {
+    "$numberDecimal": "215.7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0cd51089a53f941688335"
+  },
+  "filename": "308d7e608dd94.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:49:15.361Z",
+  "longitude": {
+    "$numberDecimal": "121.03237"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5693213"
+  },
+  "compass": {
+    "$numberDecimal": "243.39999999999998"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0cd6d089a53f941688337"
+  },
+  "filename": "36aef5f8c313c.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:50:21.449Z",
+  "longitude": {
+    "$numberDecimal": "121.0322847"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5688562"
+  },
+  "compass": {
+    "$numberDecimal": "217.1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0cdb8089a53f941688339"
+  },
+  "filename": "3d6612768b35e.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:51:04.739Z",
+  "longitude": {
+    "$numberDecimal": "121.0327835"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5686625"
+  },
+  "compass": {
+    "$numberDecimal": "215"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e0cdec089a53f94168833c"
+  },
+  "filename": "a4e3170058984.jpg",
+  "description": "Coronado Street",
+  "weather": "Sunny",
+  "datetime": "2023-02-06T09:52:26.088Z",
+  "longitude": {
+    "$numberDecimal": "121.0332614"
+  },
+  "latitude": {
+    "$numberDecimal": "14.5679917"
+  },
+  "compass": {
+    "$numberDecimal": "226.4"
+  },
+  "__v": 0
+}]
