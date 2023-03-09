@@ -7,52 +7,24 @@ import torch.nn.functional as F
 
 from deeplab.models import DeepLabV2_ResNet101_MSC
 from utils import white_mask
-
-def preprocessing(image, device):
-    # Resize
-    scale = 0.2
-    image = cv2.resize(image, dsize=None, fx=scale, fy=scale)
-    raw_image = image.astype(np.uint8)
-
-    # Subtract mean values
-    image = image.astype(np.float32)
-    image -= np.array(
-        [
-            float(122.675),
-            float(116.669),
-            float(122.675),
-        ]
-    )
-
-    # Convert to torch.Tensor and add "batch" axis
-    image = torch.from_numpy(image.transpose(2, 0, 1)).float().unsqueeze(0)
-    image = image.to(device)
-
-    return image, raw_image
+from scipy import ndimage
 
 classes = {0: 'non-river', 1: 'river'}
 
 def load_model(device):
-    model_path = './deeplab/weights/water_whole.pth'
+    model_path = 'weights/water_whole.pth'
 
     model = DeepLabV2_ResNet101_MSC(n_classes=len(classes))
     state_dict = torch.load(model_path, map_location=lambda storage, loc: storage)
     model.load_state_dict(state_dict)
+    model = torch.nn.DataParallel(model)
     model.eval()
     model.to(device)
 
     return model
 
-def load_image(image_path, device):
-    image = cv2.imread(image_path, cv2.IMREAD_COLOR)
-    image, raw_image = preprocessing(image, device)
-
-    return image, raw_image
-
-
-def remove_non_river(image_path, device):
+def remove_non_river(image, raw_image, device):
     model = load_model(device)
-    image, raw_image = load_image(image_path, device)
 
     _, _, H, W = image.shape
 
@@ -67,6 +39,8 @@ def remove_non_river(image_path, device):
     # labels = np.unique(labelmap)
 
     labelmap = (~labelmap.astype(bool)).astype(int)
+    labelmap = ndimage.binary_fill_holes(1 - labelmap).astype(int)
+    labelmap = 1 - ndimage.binary_dilation(labelmap).astype(int)
     w_mask = white_mask(labelmap)
     raw_image = cv2.addWeighted(raw_image, 1, w_mask, 1, 0)
 

@@ -13,7 +13,7 @@ from utils import white_mask
 COCO_INSTANCE_CATEGORY_NAMES = MaskRCNN_ResNet50_FPN_Weights.DEFAULT.meta['categories']
 
 def load_model(device):
-    model_path = 'weights/maskrcnn_resnet50_fpn_coco.pth'
+    model_path = 'weights/maskrcnn_resnet50_fpn_coco.pth'   
     weights = torch.load(model_path)
 
     model = maskrcnn_resnet50_fpn(pretrained_backbone=False)
@@ -35,7 +35,6 @@ def load_image(image, device):
 def remove_boats(image, device):
     model = load_model(device)
     image_tensor = load_image(image, device)
-
     print(image_tensor.shape)
 
     prediction = model([image_tensor])
@@ -47,9 +46,9 @@ def remove_boats(image, device):
 
         masks = (prediction[0]['masks'] > 0.5).squeeze().detach().cpu().numpy()
         pred_class = [COCO_INSTANCE_CATEGORY_NAMES[i]
-                    for i in list(prediction[0]['labels'].numpy())]
+                    for i in list(prediction[0]['labels'].cpu().numpy())]
         pred_boxes = [[(i[0], i[1]), (i[2], i[3])]
-                    for i in list(prediction[0]['boxes'].detach().numpy())]
+                    for i in list(prediction[0]['boxes'].detach().cpu().numpy())]
 
         masks = masks[:pred_t+1]
         pred_boxes = pred_boxes[:pred_t+1]
