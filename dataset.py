@@ -57,6 +57,7 @@ class RiverDataset(Dataset):
         mask = np.any(mask == obj_ids[:, None, None], axis=(3))
         mask = np.transpose(mask, (1, 2, 0))[:, :, 0]
         mask = ndimage.binary_fill_holes(mask).astype(int)
+        
 
         return self.imgs[index].split('.')[0], img.astype(np.float32), mask.astype(np.int8)
 

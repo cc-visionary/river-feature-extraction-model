@@ -32,14 +32,17 @@ def load_image(image, device):
 
     return image_tensor
 
+"""
+returns output_image, mask
+"""
 def remove_boats(image, device):
     model = load_model(device)
     image_tensor = load_image(image, device)
-    print(image_tensor.shape)
 
     prediction = model([image_tensor])
     pred_score = list(prediction[0]['scores'].detach().cpu().numpy())
     threshold = 0.5
+    boat_mask = np.zeros((360, 640))
 
     try:
         pred_t = [pred_score.index(x) for x in pred_score if x > threshold][-1]
@@ -56,12 +59,11 @@ def remove_boats(image, device):
 
         for i in range(len(masks)):
             if(pred_class[i] == 'boat'):
+                print(pred_boxes[i])
                 w_mask = white_mask(masks[i])
                 image = cv2.addWeighted(image, 1, w_mask, 1, 0)
-                # cv2.rectangle(image, [int(val) for val in pred_boxes[i][0]], [int(val) for val in pred_boxes[i][1]],color=(0, 255, 0), thickness=3)
-                # cv2.putText(image,pred_class[i], [int(val) for val in pred_boxes[i][0]], cv2.FONT_HERSHEY_SIMPLEX, 3, (0,255,0),thickness=3)
+                boat_mask = np.logical_or(boat_mask, masks[i])
     except:
-        # simply means that there is no detected val
         pass
-
-    return image
+    
+    return image, 1 - boat_mask

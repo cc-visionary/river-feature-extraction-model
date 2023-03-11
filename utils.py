@@ -26,7 +26,7 @@ def white_mask(image):
 
 def preprocessing(image, device):
     # Resize
-    image = cv2.resize(image, dsize=(640, 360), interpolation=cv2.INTER_LINEAR)
+    # image = cv2.resize(image, dsize=(640, 360), interpolation=cv2.INTER_LINEAR)
     raw_image = image.astype(np.uint8)
 
     # Subtract mean values

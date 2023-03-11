@@ -23,6 +23,9 @@ def load_model(device):
 
     return model
 
+"""
+returns output_image, mask
+"""
 def remove_non_river(image, raw_image, device):
     model = load_model(device)
 
@@ -36,32 +39,12 @@ def remove_non_river(image, raw_image, device):
     probs = probs.detach().cpu().numpy()
 
     labelmap = np.argmax(probs, axis=0)
-    # labels = np.unique(labelmap)
 
     labelmap = (~labelmap.astype(bool)).astype(int)
     labelmap = ndimage.binary_fill_holes(1 - labelmap).astype(int)
-    labelmap = 1 - ndimage.binary_dilation(labelmap).astype(int)
+    labelmap = 1 - ndimage.binary_fill_holes(labelmap).astype(int)
+    labelmap = ndimage.binary_dilation(labelmap).astype(int)
     w_mask = white_mask(labelmap)
     raw_image = cv2.addWeighted(raw_image, 1, w_mask, 1, 0)
 
-    # # Show result for each class
-    # rows = int(np.floor(np.sqrt(len(labels) + 1)))
-    # cols = int(np.ceil((len(labels) + 1) / rows))
-
-    # plt.figure(figsize=(10, 10))
-    # ax = plt.subplot(rows, cols, 1)
-    # ax.set_title("Input image")
-    # ax.imshow(raw_image[:, :, ::-1])
-    # ax.axis("off")
-
-    # for i, label in enumerate(labels):
-    #     mask = labelmap == label
-    #     ax = plt.subplot(rows, cols, i + 2)
-    #     ax.set_title(classes[label])
-    #     ax.imshow(raw_image[..., ::-1])
-    #     ax.imshow(mask.astype(np.float32), alpha=0.5)
-    #     ax.axis("off")
-
-    # plt.tight_layout()
-    # plt.show()
-    return raw_image
+    return raw_image, labelmap
