@@ -59,7 +59,6 @@ def remove_boats(image, device):
 
         for i in range(len(masks)):
             if(pred_class[i] == 'boat'):
-                print(pred_boxes[i])
                 w_mask = white_mask(masks[i])
                 image = cv2.addWeighted(image, 1, w_mask, 1, 0)
                 boat_mask = np.logical_or(boat_mask, masks[i])
