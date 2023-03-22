@@ -42,7 +42,7 @@ def remove_non_river(image, raw_image, device):
 
     labelmap = (~labelmap.astype(bool)).astype(int)
     labelmap = ndimage.binary_fill_holes(1 - labelmap).astype(int)
-    labelmap = 1 - ndimage.binary_fill_holes(labelmap).astype(int)
+    labelmap = ndimage.binary_fill_holes(1 - labelmap).astype(int)
     labelmap = ndimage.binary_dilation(labelmap).astype(int)
     w_mask = white_mask(labelmap)
     raw_image = cv2.addWeighted(raw_image, 1, w_mask, 1, 0)

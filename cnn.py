@@ -28,7 +28,6 @@ class ImageClassificationBase(nn.Module):
         print("Epoch [{}], train_loss: {:.4f}, val_loss: {:.4f}, val_acc: {:.4f}".format(
             epoch, result['train_loss'], result['val_loss'], result['val_acc']))
 
-
 class NaturalSceneClassification(ImageClassificationBase):
     def __init__(self):
         super().__init__()

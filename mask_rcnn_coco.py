@@ -65,4 +65,4 @@ def remove_boats(image, device):
     except:
         pass
     
-    return image, 1 - boat_mask
+    return image, boat_mask
