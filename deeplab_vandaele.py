@@ -33,8 +33,7 @@ def remove_non_river(image, raw_image, device):
 
     # Image -> Probability map
     logits = model(image)
-    logits = F.interpolate(logits, size=(
-        H, W), mode="bilinear", align_corners=False)
+    logits = F.interpolate(logits, size=(H, W), mode="bilinear", align_corners=False)
     probs = F.softmax(logits, dim=1)[0]
     probs = probs.detach().cpu().numpy()
 
