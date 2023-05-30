@@ -19,8 +19,8 @@ class RiverDataset(Dataset):
         self.masks = list(
             sorted(os.listdir(os.path.join(root, self.masks_path))))
 
-    def __getitem__(self, index):
-        # load images ad masks
+    def __getitem__(self, index, flip=False):
+        # load images and masks
         img_path = os.path.join(self.root, self.images_path, self.imgs[index])
         mask_path = os.path.join(self.root, self.masks_path, self.masks[index])
 
@@ -48,16 +48,10 @@ class RiverDataset(Dataset):
         mask = mask.resize((640, 360), Image.ANTIALIAS)
 
         mask = np.array(mask)
-
-        # retain only the area of the river
-        obj_ids = np.array([[102, 255, 102]])
-
-        # split the color-encoded mask into a set
-        # of binary masks
-        mask = np.any(mask == obj_ids[:, None, None], axis=(3))
-        mask = np.transpose(mask, (1, 2, 0))[:, :, 0]
-        mask = ndimage.binary_fill_holes(mask).astype(int)
         
+        if(flip):
+            mask = cv2.flip(mask, 1)
+            img = cv2.flip(img, 1)
 
         return self.imgs[index].split('.')[0], img.astype(np.float32), mask.astype(np.int8)
 

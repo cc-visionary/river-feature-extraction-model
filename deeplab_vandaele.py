@@ -12,7 +12,7 @@ from scipy import ndimage
 classes = {0: 'non-river', 1: 'river'}
 
 def load_model(device):
-    model_path = 'weights/water_whole.pth'
+    model_path = './water_output/deeplabv2_resnet101_msc/5_fold_checkpoint_100.pth'
 
     model = DeepLabV2_ResNet101_MSC(n_classes=len(classes))
     state_dict = torch.load(model_path, map_location=lambda storage, loc: storage)
